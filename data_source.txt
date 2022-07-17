@@ -1,0 +1,19 @@
+# Data 1: County-level population change in 2020, 2021----
+# Source: https://www.census.gov/programs-surveys/popest/data/tables.html
+# Other levels: National, City & Town, Metro
+county_pop-est2021-alldata.csv
+
+# Data 2: Redfin metro-area migration data ----
+# Source: https://www.redfin.com/news/data-center/migration/
+Redfin migration_historical_external_use.xlsx
+
+
+# Data 3: Housing price by zipcode ----
+# Source: https://www.redfin.com/news/data-center/
+# Other levels: National, Metro, State, County, City, Zip Code, Neighborhood
+zip_code_market_tracker.tsv000/zip_code_market_tracker.tsv
+
+# Data 4: Reason for moving ----
+# Source: https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html
+# reason for moving: NXTRES, MIG_MTR3, MIG_MTR4
+# quick view: https://data.census.gov/mdat/#/search?ds=CPSASEC2021&cv=MIG_MTR3&rv=NXTRES&wt=MARSUPWT
