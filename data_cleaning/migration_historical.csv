@@ -1,0 +1,2231 @@
+﻿date,Metro,State,Net flow
+2017/1/1,Sacramento,CA,4089
+2017/1/1,Phoenix,AZ,2744
+2017/1/1,Las Vegas,NV,2476
+2017/1/1,Dallas,TX,2071
+2017/1/1,Portland,OR,1556
+2017/1/1,Atlanta,GA,1506
+2017/1/1,Seattle,WA,1203
+2017/1/1,Miami,FL,1202
+2017/1/1,Austin,TX,1189
+2017/1/1,San Diego,CA,1109
+2017/1/1,Tampa,FL,878
+2017/1/1,Raleigh,NC,866
+2017/1/1,San Antonio,TX,710
+2017/1/1,Orlando,FL,680
+2017/1/1,Philadelphia,PA,675
+2017/1/1,Bellingham,WA,543
+2017/1/1,Nashville,TN,537
+2017/1/1,Cape Coral,FL,528
+2017/1/1,Denver,CO,424
+2017/1/1,Salinas,CA,406
+2017/1/1,San Luis Obispo,CA,393
+2017/1/1,Jacksonville,FL,379
+2017/1/1,Fresno,CA,323
+2017/1/1,Colorado Springs,CO,320
+2017/1/1,Charlotte,NC,316
+2017/1/1,Modesto,CA,316
+2017/1/1,Salt Lake City,UT,305
+2017/1/1,North Port,FL,283
+2017/1/1,Reno,NV,280
+2017/1/1,Tucson,AZ,190
+2017/1/1,Charleston,SC,176
+2017/1/1,Bakersfield,CA,164
+2017/1/1,Urban Honolulu,HI,159
+2017/1/1,Santa Maria,CA,151
+2017/1/1,Milwaukee,WI,116
+2017/1/1,Rochester,NY,114
+2017/1/1,Fort Collins,CO,110
+2017/1/1,New Orleans,LA,98
+2017/1/1,Eugene,OR,97
+2017/1/1,Greensboro,NC,88
+2017/1/1,Detroit,MI,75
+2017/1/1,Grand Rapids,MI,66
+2017/1/1,Kansas City,MO,62
+2017/1/1,Memphis,TN,61
+2017/1/1,Albuquerque,NM,56
+2017/1/1,Baton Rouge,LA,37
+2017/1/1,Pittsburgh,PA,37
+2017/1/1,Minneapolis,MN,35
+2017/1/1,Richmond,VA,33
+2017/1/1,Greenville,SC,32
+2017/1/1,Cleveland,OH,31
+2017/1/1,Virginia Beach,VA,31
+2017/1/1,Columbus,OH,27
+2017/1/1,Madison,WI,24
+2017/1/1,Cincinnati,OH,21
+2017/1/1,Albany,NY,19
+2017/1/1,Louisville,KY,12
+2017/1/1,Oklahoma City,OK,2
+2017/1/1,Birmingham,AL,-3
+2017/1/1,St. Louis,MO,-16
+2017/1/1,Omaha,NE,-31
+2017/1/1,Indianapolis,IN,-46
+2017/1/1,Knoxville,TN,-50
+2017/1/1,Buffalo,NY,-100
+2017/1/1,Dayton,OH,-116
+2017/1/1,Boston,MA,-677
+2017/1/1,Houston,TX,-816
+2017/1/1,Chicago,IL,-2617
+2017/1/1,Washington,DC,-3999
+2017/1/1,Los Angeles,CA,-5328
+2017/1/1,New York,NY,-7106
+2017/1/1,San Jose,CA,-15028
+2017/4/1,San Diego,CA,5286
+2017/4/1,Sacramento,CA,4833
+2017/4/1,Phoenix,AZ,3849
+2017/4/1,Las Vegas,NV,3509
+2017/4/1,Atlanta,GA,2767
+2017/4/1,Dallas,TX,2036
+2017/4/1,Boston,MA,1750
+2017/4/1,Miami,FL,1746
+2017/4/1,Tampa,FL,1669
+2017/4/1,Austin,TX,1655
+2017/4/1,Nashville,TN,1364
+2017/4/1,Philadelphia,PA,1311
+2017/4/1,Raleigh,NC,1302
+2017/4/1,Portland,OR,1190
+2017/4/1,Charlotte,NC,1178
+2017/4/1,San Antonio,TX,916
+2017/4/1,San Luis Obispo,CA,675
+2017/4/1,Cape Coral,FL,652
+2017/4/1,Orlando,FL,602
+2017/4/1,Bellingham,WA,593
+2017/4/1,Reno,NV,534
+2017/4/1,Salt Lake City,UT,530
+2017/4/1,North Port,FL,461
+2017/4/1,Salinas,CA,456
+2017/4/1,Fresno,CA,439
+2017/4/1,Colorado Springs,CO,426
+2017/4/1,Modesto,CA,421
+2017/4/1,Portland,ME,420
+2017/4/1,Tucson,AZ,394
+2017/4/1,Jacksonville,FL,352
+2017/4/1,Seattle,WA,335
+2017/4/1,Urban Honolulu,HI,308
+2017/4/1,Santa Maria,CA,299
+2017/4/1,Charleston,SC,277
+2017/4/1,Albuquerque,NM,251
+2017/4/1,Bakersfield,CA,249
+2017/4/1,Cleveland,OH,210
+2017/4/1,Minneapolis,MN,202
+2017/4/1,Eugene,OR,201
+2017/4/1,Virginia Beach,VA,194
+2017/4/1,Fort Collins,CO,190
+2017/4/1,Indianapolis,IN,185
+2017/4/1,Grand Rapids,MI,184
+2017/4/1,New Orleans,LA,148
+2017/4/1,Kansas City,MO,119
+2017/4/1,Memphis,TN,113
+2017/4/1,Richmond,VA,107
+2017/4/1,Pittsburgh,PA,101
+2017/4/1,Buffalo,NY,88
+2017/4/1,Madison,WI,80
+2017/4/1,Columbus,OH,72
+2017/4/1,Cincinnati,OH,63
+2017/4/1,Greenville,SC,49
+2017/4/1,Albany,NY,45
+2017/4/1,Louisville,KY,45
+2017/4/1,Oklahoma City,OK,26
+2017/4/1,Greensboro,NC,20
+2017/4/1,St. Louis,MO,19
+2017/4/1,Baton Rouge,LA,18
+2017/4/1,Knoxville,TN,10
+2017/4/1,Little Rock,AR,-6
+2017/4/1,Birmingham,AL,-11
+2017/4/1,Dayton,OH,-36
+2017/4/1,Omaha,NE,-44
+2017/4/1,Rochester,NY,-96
+2017/4/1,Milwaukee,WI,-226
+2017/4/1,Detroit,MI,-309
+2017/4/1,Houston,TX,-317
+2017/4/1,Denver,CO,-338
+2017/4/1,Chicago,IL,-2366
+2017/4/1,Washington,DC,-5499
+2017/4/1,Los Angeles,CA,-13109
+2017/4/1,New York,NY,-15644
+2017/4/1,San Jose,CA,-16745
+2017/7/1,San Diego,CA,5979
+2017/7/1,Sacramento,CA,5081
+2017/7/1,Las Vegas,NV,3837
+2017/7/1,Phoenix,AZ,3200
+2017/7/1,Atlanta,GA,2993
+2017/7/1,Boston,MA,2354
+2017/7/1,Dallas,TX,1873
+2017/7/1,Nashville,TN,1653
+2017/7/1,Tampa,FL,1517
+2017/7/1,Austin,TX,1488
+2017/7/1,Philadelphia,PA,1472
+2017/7/1,Raleigh,NC,1333
+2017/7/1,Miami,FL,1324
+2017/7/1,Charlotte,NC,1273
+2017/7/1,Bend,OR,1052
+2017/7/1,Portland,OR,983
+2017/7/1,San Antonio,TX,914
+2017/7/1,Bellingham,WA,835
+2017/7/1,San Luis Obispo,CA,689
+2017/7/1,Reno,NV,646
+2017/7/1,Salt Lake City,UT,633
+2017/7/1,Colorado Springs,CO,618
+2017/7/1,Portland,ME,576
+2017/7/1,Jacksonville,FL,539
+2017/7/1,Cape Coral,FL,529
+2017/7/1,Modesto,CA,524
+2017/7/1,Salinas,CA,509
+2017/7/1,North Port,FL,468
+2017/7/1,Santa Maria,CA,418
+2017/7/1,Pittsburgh,PA,365
+2017/7/1,Bakersfield,CA,356
+2017/7/1,Urban Honolulu,HI,354
+2017/7/1,Tucson,AZ,352
+2017/7/1,Minneapolis,MN,349
+2017/7/1,Orlando,FL,345
+2017/7/1,Albuquerque,NM,303
+2017/7/1,Fresno,CA,297
+2017/7/1,Eugene,OR,287
+2017/7/1,Virginia Beach,VA,287
+2017/7/1,Richmond,VA,269
+2017/7/1,Cleveland,OH,259
+2017/7/1,Grand Rapids,MI,243
+2017/7/1,Charleston,SC,230
+2017/7/1,Seattle,WA,214
+2017/7/1,Indianapolis,IN,204
+2017/7/1,Kansas City,MO,192
+2017/7/1,Fort Collins,CO,172
+2017/7/1,Columbus,OH,168
+2017/7/1,Madison,WI,166
+2017/7/1,New Orleans,LA,114
+2017/7/1,Buffalo,NY,113
+2017/7/1,Memphis,TN,101
+2017/7/1,Cincinnati,OH,82
+2017/7/1,Greensboro,NC,72
+2017/7/1,Oklahoma City,OK,56
+2017/7/1,Albany,NY,54
+2017/7/1,Baton Rouge,LA,48
+2017/7/1,St. Louis,MO,42
+2017/7/1,Greenville,SC,35
+2017/7/1,Birmingham,AL,24
+2017/7/1,Louisville,KY,23
+2017/7/1,Knoxville,TN,14
+2017/7/1,Little Rock,AR,-3
+2017/7/1,Tulsa,OK,-5
+2017/7/1,Rochester,NY,-16
+2017/7/1,Omaha,NE,-28
+2017/7/1,Dayton,OH,-42
+2017/7/1,Milwaukee,WI,-152
+2017/7/1,Denver,CO,-163
+2017/7/1,Detroit,MI,-322
+2017/7/1,Houston,TX,-328
+2017/7/1,Chicago,IL,-2125
+2017/7/1,Washington,DC,-5677
+2017/7/1,Los Angeles,CA,-15889
+2017/7/1,New York,NY,-16647
+2017/7/1,San Jose,CA,-16952
+2017/10/1,Sacramento,CA,4586
+2017/10/1,San Diego,CA,3776
+2017/10/1,Las Vegas,NV,3583
+2017/10/1,Phoenix,AZ,3549
+2017/10/1,Atlanta,GA,3097
+2017/10/1,Dallas,TX,2074
+2017/10/1,Boston,MA,1811
+2017/10/1,Portland,OR,1700
+2017/10/1,Austin,TX,1609
+2017/10/1,Nashville,TN,1587
+2017/10/1,Philadelphia,PA,1452
+2017/10/1,Tampa,FL,1354
+2017/10/1,Raleigh,NC,1343
+2017/10/1,Charlotte,NC,1167
+2017/10/1,Miami,FL,1105
+2017/10/1,San Antonio,TX,863
+2017/10/1,Reno,NV,708
+2017/10/1,Bend,OR,695
+2017/10/1,North Port,FL,636
+2017/10/1,Salt Lake City,UT,627
+2017/10/1,Cape Coral,FL,610
+2017/10/1,Colorado Springs,CO,559
+2017/10/1,San Luis Obispo,CA,512
+2017/10/1,Tucson,AZ,489
+2017/10/1,Pittsburgh,PA,479
+2017/10/1,Bellingham,WA,463
+2017/10/1,Jacksonville,FL,460
+2017/10/1,Portland,ME,438
+2017/10/1,Minneapolis,MN,421
+2017/10/1,Albuquerque,NM,404
+2017/10/1,Bakersfield,CA,391
+2017/10/1,Modesto,CA,330
+2017/10/1,Salinas,CA,329
+2017/10/1,Fresno,CA,294
+2017/10/1,Urban Honolulu,HI,281
+2017/10/1,Cleveland,OH,277
+2017/10/1,Charleston,SC,241
+2017/10/1,Virginia Beach,VA,238
+2017/10/1,Grand Rapids,MI,233
+2017/10/1,Orlando,FL,233
+2017/10/1,Columbus,OH,220
+2017/10/1,Richmond,VA,214
+2017/10/1,Santa Maria,CA,205
+2017/10/1,Indianapolis,IN,189
+2017/10/1,Kansas City,MO,169
+2017/10/1,Fort Collins,CO,155
+2017/10/1,New Orleans,LA,151
+2017/10/1,Madison,WI,121
+2017/10/1,Memphis,TN,111
+2017/10/1,Buffalo,NY,101
+2017/10/1,Greensboro,NC,78
+2017/10/1,Cincinnati,OH,74
+2017/10/1,Albany,NY,71
+2017/10/1,Eugene,OR,47
+2017/10/1,Greenville,SC,43
+2017/10/1,Oklahoma City,OK,43
+2017/10/1,St. Louis,MO,43
+2017/10/1,Knoxville,TN,38
+2017/10/1,Denver,CO,20
+2017/10/1,Tulsa,OK,20
+2017/10/1,Baton Rouge,LA,13
+2017/10/1,Birmingham,AL,12
+2017/10/1,Louisville,KY,9
+2017/10/1,Little Rock,AR,-2
+2017/10/1,Omaha,NE,-35
+2017/10/1,South Bend,IN,-40
+2017/10/1,Dayton,OH,-50
+2017/10/1,Rochester,NY,-56
+2017/10/1,Seattle,WA,-146
+2017/10/1,Detroit,MI,-222
+2017/10/1,Milwaukee,WI,-247
+2017/10/1,Houston,TX,-376
+2017/10/1,Chicago,IL,-1786
+2017/10/1,Washington,DC,-4443
+2017/10/1,Los Angeles,CA,-14240
+2017/10/1,New York,NY,-15474
+2017/10/1,San Jose,CA,-17168
+2018/1/1,Phoenix,AZ,4117
+2018/1/1,Sacramento,CA,3169
+2018/1/1,Las Vegas,NV,2925
+2018/1/1,Atlanta,GA,2713
+2018/1/1,Miami,FL,2295
+2018/1/1,Austin,TX,1807
+2018/1/1,Dallas,TX,1556
+2018/1/1,Portland,OR,1511
+2018/1/1,Tampa,FL,1187
+2018/1/1,San Diego,CA,1159
+2018/1/1,Charlotte,NC,1033
+2018/1/1,Raleigh,NC,1023
+2018/1/1,Nashville,TN,844
+2018/1/1,Philadelphia,PA,793
+2018/1/1,San Antonio,TX,735
+2018/1/1,Reno,NV,593
+2018/1/1,North Port,FL,584
+2018/1/1,Cape Coral,FL,527
+2018/1/1,Tucson,AZ,504
+2018/1/1,Colorado Springs,CO,491
+2018/1/1,San Luis Obispo,CA,468
+2018/1/1,Salt Lake City,UT,413
+2018/1/1,Jacksonville,FL,368
+2018/1/1,Salinas,CA,349
+2018/1/1,Pittsburgh,PA,346
+2018/1/1,Portland,ME,340
+2018/1/1,Urban Honolulu,HI,326
+2018/1/1,Bakersfield,CA,293
+2018/1/1,Bellingham,WA,287
+2018/1/1,Albuquerque,NM,283
+2018/1/1,Fresno,CA,229
+2018/1/1,Minneapolis,MN,210
+2018/1/1,Modesto,CA,208
+2018/1/1,Virginia Beach,VA,205
+2018/1/1,Charleston,SC,200
+2018/1/1,Orlando,FL,188
+2018/1/1,Cleveland,OH,172
+2018/1/1,Richmond,VA,161
+2018/1/1,Santa Maria,CA,154
+2018/1/1,Columbus,OH,122
+2018/1/1,Indianapolis,IN,117
+2018/1/1,Madison,WI,111
+2018/1/1,Fort Collins,CO,109
+2018/1/1,New Orleans,LA,103
+2018/1/1,Grand Rapids,MI,97
+2018/1/1,Buffalo,NY,70
+2018/1/1,Cincinnati,OH,70
+2018/1/1,Kansas City,MO,70
+2018/1/1,Memphis,TN,42
+2018/1/1,Greensboro,NC,37
+2018/1/1,Milwaukee,WI,37
+2018/1/1,Oklahoma City,OK,32
+2018/1/1,St. Louis,MO,29
+2018/1/1,Birmingham,AL,26
+2018/1/1,Greenville,SC,26
+2018/1/1,Albany,NY,10
+2018/1/1,Baton Rouge,LA,8
+2018/1/1,Louisville,KY,-4
+2018/1/1,Knoxville,TN,-30
+2018/1/1,Rochester,NY,-38
+2018/1/1,Dayton,OH,-40
+2018/1/1,Omaha,NE,-49
+2018/1/1,Boston,MA,-63
+2018/1/1,Detroit,MI,-131
+2018/1/1,Eugene,OR,-245
+2018/1/1,Houston,TX,-297
+2018/1/1,Denver,CO,-309
+2018/1/1,Chicago,IL,-2023
+2018/1/1,Seattle,WA,-2270
+2018/1/1,Washington,DC,-4209
+2018/1/1,Los Angeles,CA,-7189
+2018/1/1,New York,NY,-11707
+2018/1/1,San Jose,CA,-15137
+2018/4/1,Phoenix,AZ,6349
+2018/4/1,Sacramento,CA,6208
+2018/4/1,Atlanta,GA,5112
+2018/4/1,Las Vegas,NV,3786
+2018/4/1,Portland,OR,3614
+2018/4/1,Austin,TX,3212
+2018/4/1,Dallas,TX,2979
+2018/4/1,Miami,FL,2575
+2018/4/1,San Diego,CA,2537
+2018/4/1,Nashville,TN,2462
+2018/4/1,Tampa,FL,2436
+2018/4/1,Raleigh,NC,2092
+2018/4/1,Charlotte,NC,1908
+2018/4/1,Boston,MA,1862
+2018/4/1,San Antonio,TX,1483
+2018/4/1,Philadelphia,PA,1211
+2018/4/1,Bend,OR,1172
+2018/4/1,Cape Coral,FL,1039
+2018/4/1,North Port,FL,1024
+2018/4/1,Boise City,ID,1011
+2018/4/1,Colorado Springs,CO,990
+2018/4/1,Portland,ME,917
+2018/4/1,Reno,NV,906
+2018/4/1,Jacksonville,FL,892
+2018/4/1,Seattle,WA,853
+2018/4/1,San Luis Obispo,CA,749
+2018/4/1,Salt Lake City,UT,666
+2018/4/1,Tucson,AZ,601
+2018/4/1,Charleston,SC,570
+2018/4/1,Modesto,CA,564
+2018/4/1,Memphis,TN,550
+2018/4/1,Bellingham,WA,540
+2018/4/1,Urban Honolulu,HI,532
+2018/4/1,Fresno,CA,489
+2018/4/1,Bakersfield,CA,469
+2018/4/1,Virginia Beach,VA,467
+2018/4/1,Albuquerque,NM,457
+2018/4/1,Pittsburgh,PA,449
+2018/4/1,Orlando,FL,439
+2018/4/1,Salinas,CA,391
+2018/4/1,Greensboro,NC,343
+2018/4/1,Fort Collins,CO,341
+2018/4/1,New Orleans,LA,317
+2018/4/1,Grand Rapids,MI,296
+2018/4/1,Richmond,VA,288
+2018/4/1,Cleveland,OH,279
+2018/4/1,Minneapolis,MN,259
+2018/4/1,Madison,WI,251
+2018/4/1,Columbus,OH,217
+2018/4/1,Kansas City,MO,189
+2018/4/1,Oklahoma City,OK,185
+2018/4/1,Louisville,KY,181
+2018/4/1,Rochester,NY,176
+2018/4/1,Buffalo,NY,175
+2018/4/1,Indianapolis,IN,167
+2018/4/1,St. Louis,MO,147
+2018/4/1,Greenville,SC,132
+2018/4/1,Cincinnati,OH,112
+2018/4/1,Lakeland,FL,90
+2018/4/1,Asheville,NC,62
+2018/4/1,Knoxville,TN,46
+2018/4/1,Chico,CA,41
+2018/4/1,El Paso,TX,39
+2018/4/1,Albany,NY,34
+2018/4/1,Birmingham,AL,32
+2018/4/1,Columbia,SC,25
+2018/4/1,Syracuse,NY,13
+2018/4/1,Baton Rouge,LA,8
+2018/4/1,Little Rock,AR,2
+2018/4/1,Santa Maria,CA,-5
+2018/4/1,Tulsa,OK,-33
+2018/4/1,Dayton,OH,-46
+2018/4/1,Omaha,NE,-84
+2018/4/1,South Bend,IN,-189
+2018/4/1,Rockford,IL,-250
+2018/4/1,Detroit,MI,-263
+2018/4/1,Eugene,OR,-288
+2018/4/1,Houston,TX,-336
+2018/4/1,Milwaukee,WI,-787
+2018/4/1,Denver,CO,-3007
+2018/4/1,Chicago,IL,-3428
+2018/4/1,Washington,DC,-5900
+2018/4/1,Los Angeles,CA,-13370
+2018/4/1,New York,NY,-23559
+2018/4/1,San Jose,CA,-27849
+2018/7/1,Sacramento,CA,7029
+2018/7/1,Atlanta,GA,5466
+2018/7/1,Phoenix,AZ,5258
+2018/7/1,Portland,OR,3904
+2018/7/1,San Diego,CA,3206
+2018/7/1,Miami,FL,3019
+2018/7/1,Austin,TX,2983
+2018/7/1,Tampa,FL,2811
+2018/7/1,Dallas,TX,2741
+2018/7/1,Nashville,TN,2603
+2018/7/1,Las Vegas,NV,2360
+2018/7/1,Raleigh,NC,2023
+2018/7/1,Charlotte,NC,2003
+2018/7/1,Seattle,WA,1560
+2018/7/1,San Antonio,TX,1455
+2018/7/1,Boston,MA,1434
+2018/7/1,Bend,OR,1411
+2018/7/1,Portland,ME,1378
+2018/7/1,Colorado Springs,CO,1123
+2018/7/1,Boise City,ID,1067
+2018/7/1,Philadelphia,PA,1045
+2018/7/1,Cape Coral,FL,1026
+2018/7/1,Reno,NV,983
+2018/7/1,Jacksonville,FL,933
+2018/7/1,San Luis Obispo,CA,900
+2018/7/1,North Port,FL,850
+2018/7/1,Wenatchee,WA,705
+2018/7/1,Bellingham,WA,662
+2018/7/1,Salt Lake City,UT,659
+2018/7/1,Urban Honolulu,HI,655
+2018/7/1,Albuquerque,NM,652
+2018/7/1,Modesto,CA,642
+2018/7/1,Minneapolis,MN,526
+2018/7/1,Pittsburgh,PA,502
+2018/7/1,Virginia Beach,VA,494
+2018/7/1,Bakersfield,CA,487
+2018/7/1,Charleston,SC,465
+2018/7/1,Tucson,AZ,377
+2018/7/1,Fort Collins,CO,372
+2018/7/1,Grand Rapids,MI,347
+2018/7/1,Fresno,CA,342
+2018/7/1,Cleveland,OH,330
+2018/7/1,Salinas,CA,297
+2018/7/1,Greensboro,NC,292
+2018/7/1,New Orleans,LA,273
+2018/7/1,Madison,WI,268
+2018/7/1,Kansas City,MO,245
+2018/7/1,Asheville,NC,218
+2018/7/1,Columbus,OH,212
+2018/7/1,Richmond,VA,202
+2018/7/1,St. Louis,MO,190
+2018/7/1,Kalamazoo,MI,169
+2018/7/1,Rochester,NY,168
+2018/7/1,Buffalo,NY,167
+2018/7/1,Memphis,TN,152
+2018/7/1,Oklahoma City,OK,129
+2018/7/1,Greenville,SC,128
+2018/7/1,Indianapolis,IN,112
+2018/7/1,Cincinnati,OH,104
+2018/7/1,Louisville,KY,76
+2018/7/1,Santa Maria,CA,72
+2018/7/1,El Paso,TX,58
+2018/7/1,Albany,NY,52
+2018/7/1,Columbia,SC,31
+2018/7/1,Birmingham,AL,30
+2018/7/1,South Bend,IN,26
+2018/7/1,Tulsa,OK,25
+2018/7/1,Knoxville,TN,16
+2018/7/1,Lakeland,FL,9
+2018/7/1,Baton Rouge,LA,-2
+2018/7/1,Little Rock,AR,-3
+2018/7/1,Chico,CA,-28
+2018/7/1,Syracuse,NY,-41
+2018/7/1,Omaha,NE,-58
+2018/7/1,Dayton,OH,-65
+2018/7/1,Eugene,OR,-142
+2018/7/1,Detroit,MI,-242
+2018/7/1,Salisbury,MD,-278
+2018/7/1,Rockford,IL,-303
+2018/7/1,Orlando,FL,-492
+2018/7/1,Houston,TX,-578
+2018/7/1,Milwaukee,WI,-899
+2018/7/1,Spokane,WA,-908
+2018/7/1,Chicago,IL,-3050
+2018/7/1,Denver,CO,-3290
+2018/7/1,Washington,DC,-6592
+2018/7/1,Los Angeles,CA,-14129
+2018/7/1,New York,NY,-23214
+2018/7/1,San Jose,CA,-28143
+2018/10/1,Sacramento,CA,5879
+2018/10/1,Phoenix,AZ,5287
+2018/10/1,Atlanta,GA,4658
+2018/10/1,Portland,OR,4057
+2018/10/1,Seattle,WA,3638
+2018/10/1,Las Vegas,NV,3181
+2018/10/1,San Diego,CA,3120
+2018/10/1,Austin,TX,2982
+2018/10/1,Miami,FL,2893
+2018/10/1,Dallas,TX,2824
+2018/10/1,Boston,MA,2472
+2018/10/1,Nashville,TN,2371
+2018/10/1,Tampa,FL,2322
+2018/10/1,Raleigh,NC,1981
+2018/10/1,Charlotte,NC,1770
+2018/10/1,San Antonio,TX,1367
+2018/10/1,Bend,OR,1288
+2018/10/1,Cape Coral,FL,1141
+2018/10/1,Philadelphia,PA,1031
+2018/10/1,Portland,ME,1024
+2018/10/1,Boise City,ID,1018
+2018/10/1,North Port,FL,976
+2018/10/1,Jacksonville,FL,897
+2018/10/1,Reno,NV,841
+2018/10/1,Salt Lake City,UT,782
+2018/10/1,San Luis Obispo,CA,723
+2018/10/1,Urban Honolulu,HI,698
+2018/10/1,Colorado Springs,CO,694
+2018/10/1,Bakersfield,CA,660
+2018/10/1,Albuquerque,NM,639
+2018/10/1,Charleston,SC,557
+2018/10/1,Tucson,AZ,531
+2018/10/1,Bellingham,WA,526
+2018/10/1,Pittsburgh,PA,482
+2018/10/1,Minneapolis,MN,414
+2018/10/1,Cleveland,OH,385
+2018/10/1,Virginia Beach,VA,368
+2018/10/1,New Orleans,LA,330
+2018/10/1,Modesto,CA,310
+2018/10/1,Fort Collins,CO,303
+2018/10/1,Grand Rapids,MI,294
+2018/10/1,Salinas,CA,234
+2018/10/1,Fresno,CA,233
+2018/10/1,Kansas City,MO,220
+2018/10/1,Louisville,KY,220
+2018/10/1,Greensboro,NC,205
+2018/10/1,St. Louis,MO,201
+2018/10/1,Memphis,TN,197
+2018/10/1,Madison,WI,189
+2018/10/1,Rochester,NY,184
+2018/10/1,Oklahoma City,OK,183
+2018/10/1,Buffalo,NY,141
+2018/10/1,Indianapolis,IN,133
+2018/10/1,Cincinnati,OH,112
+2018/10/1,Asheville,NC,110
+2018/10/1,Albany,NY,107
+2018/10/1,Columbus,OH,105
+2018/10/1,Salisbury,MD,93
+2018/10/1,Greenville,SC,52
+2018/10/1,Santa Maria,CA,52
+2018/10/1,El Paso,TX,35
+2018/10/1,Tulsa,OK,31
+2018/10/1,Chico,CA,30
+2018/10/1,Birmingham,AL,22
+2018/10/1,Little Rock,AR,21
+2018/10/1,Baton Rouge,LA,5
+2018/10/1,Richmond,VA,-13
+2018/10/1,Columbia,SC,-16
+2018/10/1,Syracuse,NY,-22
+2018/10/1,Knoxville,TN,-32
+2018/10/1,Dayton,OH,-47
+2018/10/1,Omaha,NE,-63
+2018/10/1,Eugene,OR,-77
+2018/10/1,Lakeland,FL,-84
+2018/10/1,Spokane,WA,-155
+2018/10/1,Detroit,MI,-163
+2018/10/1,South Bend,IN,-201
+2018/10/1,Rockford,IL,-324
+2018/10/1,Houston,TX,-437
+2018/10/1,Orlando,FL,-608
+2018/10/1,Milwaukee,WI,-694
+2018/10/1,Chicago,IL,-2535
+2018/10/1,Denver,CO,-2577
+2018/10/1,Washington,DC,-5527
+2018/10/1,Los Angeles,CA,-14647
+2018/10/1,New York,NY,-22002
+2018/10/1,San Jose,CA,-29122
+2019/1/1,Phoenix,AZ,7949
+2019/1/1,Sacramento,CA,5987
+2019/1/1,Atlanta,GA,5402
+2019/1/1,Austin,TX,4447
+2019/1/1,Miami,FL,4400
+2019/1/1,Las Vegas,NV,3987
+2019/1/1,Dallas,TX,3797
+2019/1/1,Tampa,FL,3536
+2019/1/1,San Diego,CA,2817
+2019/1/1,Raleigh,NC,2482
+2019/1/1,Charlotte,NC,2397
+2019/1/1,Nashville,TN,2131
+2019/1/1,Cape Coral,FL,2085
+2019/1/1,Portland,OR,1991
+2019/1/1,San Antonio,TX,1887
+2019/1/1,North Port,FL,1557
+2019/1/1,Philadelphia,PA,1408
+2019/1/1,Jacksonville,FL,1337
+2019/1/1,Bend,OR,1324
+2019/1/1,Orlando,FL,1144
+2019/1/1,Portland,ME,1087
+2019/1/1,Boise City,ID,944
+2019/1/1,Charleston,SC,895
+2019/1/1,Reno,NV,895
+2019/1/1,Tucson,AZ,836
+2019/1/1,San Luis Obispo,CA,828
+2019/1/1,Urban Honolulu,HI,801
+2019/1/1,Colorado Springs,CO,761
+2019/1/1,Albuquerque,NM,702
+2019/1/1,Kahului,HI,684
+2019/1/1,Bakersfield,CA,643
+2019/1/1,Boston,MA,638
+2019/1/1,New Orleans,LA,623
+2019/1/1,Cleveland,OH,600
+2019/1/1,Virginia Beach,VA,486
+2019/1/1,Salt Lake City,UT,470
+2019/1/1,Pittsburgh,PA,399
+2019/1/1,Salisbury,MD,399
+2019/1/1,Salinas,CA,377
+2019/1/1,Bellingham,WA,374
+2019/1/1,Grand Rapids,MI,342
+2019/1/1,St. Louis,MO,298
+2019/1/1,Greensboro,NC,292
+2019/1/1,Harrisburg,PA,292
+2019/1/1,Modesto,CA,283
+2019/1/1,Fort Collins,CO,244
+2019/1/1,Minneapolis,MN,244
+2019/1/1,Memphis,TN,217
+2019/1/1,Fresno,CA,211
+2019/1/1,Kansas City,MO,203
+2019/1/1,Greenville,SC,200
+2019/1/1,Madison,WI,193
+2019/1/1,Oklahoma City,OK,192
+2019/1/1,Asheville,NC,186
+2019/1/1,Rochester,NY,172
+2019/1/1,Cincinnati,OH,134
+2019/1/1,Kalamazoo,MI,122
+2019/1/1,Lakeland,FL,121
+2019/1/1,Buffalo,NY,113
+2019/1/1,El Paso,TX,106
+2019/1/1,Birmingham,AL,104
+2019/1/1,Columbia,SC,74
+2019/1/1,Albany,NY,44
+2019/1/1,Little Rock,AR,36
+2019/1/1,Clarksville,TN,33
+2019/1/1,Tulsa,OK,20
+2019/1/1,Baton Rouge,LA,19
+2019/1/1,Columbus,OH,0
+2019/1/1,Knoxville,TN,-4
+2019/1/1,Louisville,KY,-22
+2019/1/1,Lexington,KY,-46
+2019/1/1,Omaha,NE,-64
+2019/1/1,Syracuse,NY,-72
+2019/1/1,McAllen,TX,-79
+2019/1/1,Santa Maria,CA,-94
+2019/1/1,Chico,CA,-97
+2019/1/1,Dayton,OH,-103
+2019/1/1,Indianapolis,IN,-114
+2019/1/1,Spokane,WA,-121
+2019/1/1,Richmond,VA,-204
+2019/1/1,Des Moines,IA,-211
+2019/1/1,Eugene,OR,-306
+2019/1/1,Champaign,IL,-342
+2019/1/1,Rockford,IL,-419
+2019/1/1,Houston,TX,-439
+2019/1/1,South Bend,IN,-457
+2019/1/1,Detroit,MI,-474
+2019/1/1,Milwaukee,WI,-796
+2019/1/1,Hartford,CT,-1355
+2019/1/1,Seattle,WA,-2039
+2019/1/1,Denver,CO,-3838
+2019/1/1,Chicago,IL,-4428
+2019/1/1,Washington,DC,-8543
+2019/1/1,Los Angeles,CA,-12934
+2019/1/1,San Jose,CA,-26366
+2019/1/1,New York,NY,-26938
+2019/4/1,Phoenix,AZ,8208
+2019/4/1,Sacramento,CA,6799
+2019/4/1,Atlanta,GA,6113
+2019/4/1,Las Vegas,NV,5686
+2019/4/1,Austin,TX,5403
+2019/4/1,Tampa,FL,4210
+2019/4/1,Dallas,TX,4122
+2019/4/1,Miami,FL,3967
+2019/4/1,Boston,MA,3834
+2019/4/1,San Diego,CA,3013
+2019/4/1,Charlotte,NC,2924
+2019/4/1,Raleigh,NC,2755
+2019/4/1,Orlando,FL,2488
+2019/4/1,Portland,OR,2390
+2019/4/1,Nashville,TN,2302
+2019/4/1,San Antonio,TX,1966
+2019/4/1,Cape Coral,FL,1878
+2019/4/1,North Port,FL,1571
+2019/4/1,Bend,OR,1500
+2019/4/1,Philadelphia,PA,1432
+2019/4/1,Jacksonville,FL,1374
+2019/4/1,Portland,ME,1333
+2019/4/1,Boise City,ID,1132
+2019/4/1,Reno,NV,1029
+2019/4/1,Charleston,SC,975
+2019/4/1,Tucson,AZ,961
+2019/4/1,San Luis Obispo,CA,953
+2019/4/1,Wenatchee,WA,724
+2019/4/1,Bakersfield,CA,710
+2019/4/1,Urban Honolulu,HI,648
+2019/4/1,New Orleans,LA,637
+2019/4/1,Albuquerque,NM,591
+2019/4/1,Kahului,HI,579
+2019/4/1,Colorado Springs,CO,562
+2019/4/1,Salt Lake City,UT,556
+2019/4/1,Virginia Beach,VA,549
+2019/4/1,Salisbury,MD,499
+2019/4/1,Pittsburgh,PA,491
+2019/4/1,Fort Collins,CO,480
+2019/4/1,Cleveland,OH,470
+2019/4/1,Bellingham,WA,467
+2019/4/1,Memphis,TN,429
+2019/4/1,Myrtle Beach,SC,416
+2019/4/1,Grand Rapids,MI,403
+2019/4/1,Allentown,PA,401
+2019/4/1,Greensboro,NC,383
+2019/4/1,Salinas,CA,367
+2019/4/1,Fresno,CA,364
+2019/4/1,St. Louis,MO,338
+2019/4/1,Minneapolis,MN,314
+2019/4/1,Kansas City,MO,287
+2019/4/1,Madison,WI,276
+2019/4/1,Greenville,SC,200
+2019/4/1,Oklahoma City,OK,200
+2019/4/1,Buffalo,NY,196
+2019/4/1,Cincinnati,OH,188
+2019/4/1,Asheville,NC,177
+2019/4/1,Rochester,NY,171
+2019/4/1,Spokane,WA,171
+2019/4/1,Knoxville,TN,150
+2019/4/1,Harrisburg,PA,132
+2019/4/1,Columbia,SC,107
+2019/4/1,Tulsa,OK,90
+2019/4/1,Birmingham,AL,84
+2019/4/1,Albany,NY,77
+2019/4/1,Columbus,OH,63
+2019/4/1,El Paso,TX,47
+2019/4/1,Burlington,VT,35
+2019/4/1,Clarksville,TN,31
+2019/4/1,Little Rock,AR,24
+2019/4/1,Kalamazoo,MI,19
+2019/4/1,Baton Rouge,LA,10
+2019/4/1,Louisville,KY,1
+2019/4/1,Omaha,NE,-57
+2019/4/1,Syracuse,NY,-58
+2019/4/1,Lexington,KY,-83
+2019/4/1,Santa Maria,CA,-140
+2019/4/1,Dayton,OH,-146
+2019/4/1,McAllen,TX,-205
+2019/4/1,Des Moines,IA,-238
+2019/4/1,Chico,CA,-276
+2019/4/1,Indianapolis,IN,-335
+2019/4/1,Eugene,OR,-379
+2019/4/1,South Bend,IN,-391
+2019/4/1,Seattle,WA,-392
+2019/4/1,Champaign,IL,-412
+2019/4/1,Rockford,IL,-431
+2019/4/1,Richmond,VA,-438
+2019/4/1,Detroit,MI,-559
+2019/4/1,Houston,TX,-729
+2019/4/1,Milwaukee,WI,-1312
+2019/4/1,Hartford,CT,-1685
+2019/4/1,Denver,CO,-4107
+2019/4/1,Chicago,IL,-4669
+2019/4/1,Washington,DC,-7985
+2019/4/1,Los Angeles,CA,-16103
+2019/4/1,San Jose,CA,-28190
+2019/4/1,New York,NY,-35855
+2019/7/1,Boston,MA,6985
+2019/7/1,Sacramento,CA,6896
+2019/7/1,Phoenix,AZ,6182
+2019/7/1,Las Vegas,NV,5938
+2019/7/1,Atlanta,GA,5827
+2019/7/1,Austin,TX,4767
+2019/7/1,Dallas,TX,3475
+2019/7/1,Tampa,FL,3218
+2019/7/1,San Diego,CA,3043
+2019/7/1,Charlotte,NC,2848
+2019/7/1,Portland,OR,2454
+2019/7/1,Miami,FL,2389
+2019/7/1,Raleigh,NC,2364
+2019/7/1,Nashville,TN,2167
+2019/7/1,Orlando,FL,1841
+2019/7/1,Bend,OR,1826
+2019/7/1,San Antonio,TX,1820
+2019/7/1,Portland,ME,1819
+2019/7/1,Cape Coral,FL,1736
+2019/7/1,North Port,FL,1429
+2019/7/1,Boise City,ID,1426
+2019/7/1,Jacksonville,FL,1239
+2019/7/1,Reno,NV,1036
+2019/7/1,Wenatchee,WA,1004
+2019/7/1,San Luis Obispo,CA,995
+2019/7/1,Salisbury,MD,967
+2019/7/1,Charleston,SC,947
+2019/7/1,Philadelphia,PA,878
+2019/7/1,Tucson,AZ,862
+2019/7/1,Salt Lake City,UT,806
+2019/7/1,Urban Honolulu,HI,805
+2019/7/1,Minneapolis,MN,696
+2019/7/1,Bellingham,WA,659
+2019/7/1,Bakersfield,CA,613
+2019/7/1,Albuquerque,NM,580
+2019/7/1,Kahului,HI,576
+2019/7/1,Pittsburgh,PA,560
+2019/7/1,New Orleans,LA,545
+2019/7/1,Grand Rapids,MI,534
+2019/7/1,Virginia Beach,VA,531
+2019/7/1,Fort Collins,CO,520
+2019/7/1,Colorado Springs,CO,511
+2019/7/1,Cleveland,OH,477
+2019/7/1,Greensboro,NC,448
+2019/7/1,Myrtle Beach,SC,441
+2019/7/1,Spokane,WA,427
+2019/7/1,Salinas,CA,415
+2019/7/1,Allentown,PA,368
+2019/7/1,Kansas City,MO,356
+2019/7/1,Madison,WI,312
+2019/7/1,St. Louis,MO,312
+2019/7/1,Memphis,TN,307
+2019/7/1,Asheville,NC,306
+2019/7/1,Harrisburg,PA,295
+2019/7/1,Rochester,NY,221
+2019/7/1,Columbia,SC,218
+2019/7/1,Oklahoma City,OK,201
+2019/7/1,Columbus,OH,193
+2019/7/1,Fresno,CA,187
+2019/7/1,Greenville,SC,185
+2019/7/1,Knoxville,TN,147
+2019/7/1,Albany,NY,106
+2019/7/1,Corpus Christi,TX,86
+2019/7/1,Birmingham,AL,79
+2019/7/1,Cincinnati,OH,56
+2019/7/1,Clarksville,TN,44
+2019/7/1,Syracuse,NY,43
+2019/7/1,Tulsa,OK,41
+2019/7/1,Little Rock,AR,23
+2019/7/1,Kalamazoo,MI,19
+2019/7/1,Baton Rouge,LA,6
+2019/7/1,El Paso,TX,-1
+2019/7/1,Burlington,VT,-6
+2019/7/1,Louisville,KY,-33
+2019/7/1,Buffalo,NY,-37
+2019/7/1,Dayton,OH,-66
+2019/7/1,Lexington,KY,-85
+2019/7/1,Santa Maria,CA,-93
+2019/7/1,Omaha,NE,-148
+2019/7/1,South Bend,IN,-182
+2019/7/1,Des Moines,IA,-185
+2019/7/1,Richmond,VA,-237
+2019/7/1,McAllen,TX,-258
+2019/7/1,Chico,CA,-299
+2019/7/1,Indianapolis,IN,-316
+2019/7/1,Eugene,OR,-388
+2019/7/1,Rockford,IL,-405
+2019/7/1,Detroit,MI,-425
+2019/7/1,Champaign,IL,-430
+2019/7/1,Houston,TX,-836
+2019/7/1,Milwaukee,WI,-1239
+2019/7/1,Seattle,WA,-1336
+2019/7/1,Hartford,CT,-1410
+2019/7/1,Denver,CO,-3241
+2019/7/1,Chicago,IL,-3974
+2019/7/1,Washington,DC,-8681
+2019/7/1,Los Angeles,CA,-17176
+2019/7/1,San Jose,CA,-26988
+2019/7/1,New York,NY,-35120
+2019/10/1,Phoenix,AZ,6509
+2019/10/1,Sacramento,CA,5675
+2019/10/1,Las Vegas,NV,5660
+2019/10/1,Atlanta,GA,5377
+2019/10/1,Austin,TX,4038
+2019/10/1,Dallas,TX,3420
+2019/10/1,Portland,OR,3402
+2019/10/1,Tampa,FL,2904
+2019/10/1,Boston,MA,2874
+2019/10/1,Nashville,TN,2864
+2019/10/1,Charlotte,NC,2489
+2019/10/1,San Diego,CA,2347
+2019/10/1,Raleigh,NC,2138
+2019/10/1,Cape Coral,FL,1852
+2019/10/1,Orlando,FL,1841
+2019/10/1,Miami,FL,1696
+2019/10/1,Seattle,WA,1576
+2019/10/1,Bend,OR,1489
+2019/10/1,San Antonio,TX,1468
+2019/10/1,North Port,FL,1333
+2019/10/1,Portland,ME,1167
+2019/10/1,Boise City,ID,1096
+2019/10/1,Jacksonville,FL,1064
+2019/10/1,Reno,NV,997
+2019/10/1,Tucson,AZ,857
+2019/10/1,Salt Lake City,UT,834
+2019/10/1,Urban Honolulu,HI,807
+2019/10/1,San Luis Obispo,CA,799
+2019/10/1,Charleston,SC,789
+2019/10/1,Philadelphia,PA,745
+2019/10/1,Albuquerque,NM,650
+2019/10/1,Minneapolis,MN,622
+2019/10/1,Kahului,HI,596
+2019/10/1,New Orleans,LA,566
+2019/10/1,Bakersfield,CA,545
+2019/10/1,Cleveland,OH,544
+2019/10/1,Pittsburgh,PA,492
+2019/10/1,Virginia Beach,VA,475
+2019/10/1,Kansas City,MO,449
+2019/10/1,Salisbury,MD,429
+2019/10/1,Grand Rapids,MI,411
+2019/10/1,Myrtle Beach,SC,383
+2019/10/1,Allentown,PA,377
+2019/10/1,Greensboro,NC,374
+2019/10/1,Fort Collins,CO,353
+2019/10/1,Spokane,WA,350
+2019/10/1,Salinas,CA,339
+2019/10/1,St. Louis,MO,333
+2019/10/1,Colorado Springs,CO,315
+2019/10/1,Buffalo,NY,288
+2019/10/1,Columbus,OH,256
+2019/10/1,Harrisburg,PA,250
+2019/10/1,Madison,WI,237
+2019/10/1,Fresno,CA,215
+2019/10/1,Memphis,TN,180
+2019/10/1,Oklahoma City,OK,174
+2019/10/1,Asheville,NC,173
+2019/10/1,Greenville,SC,147
+2019/10/1,Rochester,NY,132
+2019/10/1,Louisville,KY,98
+2019/10/1,Albany,NY,95
+2019/10/1,Syracuse,NY,78
+2019/10/1,Birmingham,AL,72
+2019/10/1,Columbia,SC,64
+2019/10/1,Tulsa,OK,58
+2019/10/1,Knoxville,TN,55
+2019/10/1,Cincinnati,OH,40
+2019/10/1,Kalamazoo,MI,20
+2019/10/1,Little Rock,AR,17
+2019/10/1,Clarksville,TN,6
+2019/10/1,Burlington,VT,-10
+2019/10/1,Bellingham,WA,-11
+2019/10/1,Baton Rouge,LA,-26
+2019/10/1,El Paso,TX,-40
+2019/10/1,Santa Maria,CA,-50
+2019/10/1,Lexington,KY,-52
+2019/10/1,Dayton,OH,-97
+2019/10/1,Des Moines,IA,-113
+2019/10/1,Omaha,NE,-113
+2019/10/1,Richmond,VA,-164
+2019/10/1,Chico,CA,-208
+2019/10/1,McAllen,TX,-236
+2019/10/1,Eugene,OR,-366
+2019/10/1,Champaign,IL,-426
+2019/10/1,Rockford,IL,-426
+2019/10/1,South Bend,IN,-430
+2019/10/1,Indianapolis,IN,-481
+2019/10/1,Detroit,MI,-524
+2019/10/1,Houston,TX,-558
+2019/10/1,Milwaukee,WI,-1030
+2019/10/1,Hartford,CT,-1323
+2019/10/1,Denver,CO,-3004
+2019/10/1,Chicago,IL,-3616
+2019/10/1,Washington,DC,-6339
+2019/10/1,Los Angeles,CA,-16271
+2019/10/1,New York,NY,-28500
+2019/10/1,San Jose,CA,-28560
+2020/1/1,New York,NY,-31852
+2020/1/1,San Jose,CA,-27624
+2020/1/1,Los Angeles,CA,-16525
+2020/1/1,Washington,DC,-7363
+2020/1/1,Chicago,IL,-3978
+2020/1/1,Seattle,WA,-3890
+2020/1/1,Denver,CO,-3623
+2020/1/1,Milwaukee,WI,-1357
+2020/1/1,Detroit,MI,-805
+2020/1/1,South Bend,IN,-767
+2020/1/1,Rockford,IL,-666
+2020/1/1,Indianapolis,IN,-655
+2020/1/1,Bellingham,WA,-608
+2020/1/1,Champaign,IL,-581
+2020/1/1,Eugene,OR,-581
+2020/1/1,Boston,MA,-540
+2020/1/1,Hartford,CT,-441
+2020/1/1,Richmond,VA,-369
+2020/1/1,Houston,TX,-333
+2020/1/1,Chico,CA,-294
+2020/1/1,McAllen,TX,-263
+2020/1/1,Omaha,NE,-142
+2020/1/1,Youngstown,OH,-128
+2020/1/1,Santa Maria,CA,-112
+2020/1/1,Des Moines,IA,-110
+2020/1/1,Dayton,OH,-101
+2020/1/1,Killeen,TX,-91
+2020/1/1,Lexington,KY,-83
+2020/1/1,Colorado Springs,CO,-47
+2020/1/1,El Paso,TX,-40
+2020/1/1,Burlington,VT,-36
+2020/1/1,Fayetteville,NC,-36
+2020/1/1,Lancaster,PA,-15
+2020/1/1,Baton Rouge,LA,-9
+2020/1/1,Clarksville,TN,-2
+2020/1/1,Little Rock,AR,36
+2020/1/1,Kalamazoo,MI,37
+2020/1/1,Palm Bay,FL,38
+2020/1/1,Tulsa,OK,59
+2020/1/1,Cincinnati,OH,79
+2020/1/1,Knoxville,TN,94
+2020/1/1,Syracuse,NY,113
+2020/1/1,Birmingham,AL,143
+2020/1/1,Madison,WI,151
+2020/1/1,Albany,NY,154
+2020/1/1,Rochester,NY,166
+2020/1/1,Asheville,NC,197
+2020/1/1,Columbus,OH,200
+2020/1/1,Louisville,KY,243
+2020/1/1,Memphis,TN,247
+2020/1/1,Greenville,SC,248
+2020/1/1,Oklahoma City,OK,250
+2020/1/1,Harrisburg,PA,267
+2020/1/1,Columbia,SC,268
+2020/1/1,Salinas,CA,310
+2020/1/1,Buffalo,NY,314
+2020/1/1,Allentown,PA,320
+2020/1/1,St. Louis,MO,329
+2020/1/1,Pittsburgh,PA,384
+2020/1/1,Kansas City,MO,394
+2020/1/1,Fresno,CA,407
+2020/1/1,Grand Rapids,MI,413
+2020/1/1,Salisbury,MD,424
+2020/1/1,Myrtle Beach,SC,426
+2020/1/1,Spokane,WA,428
+2020/1/1,Fort Collins,CO,441
+2020/1/1,Minneapolis,MN,473
+2020/1/1,Greensboro,NC,520
+2020/1/1,Virginia Beach,VA,535
+2020/1/1,Cleveland,OH,566
+2020/1/1,Albuquerque,NM,598
+2020/1/1,Kahului,HI,715
+2020/1/1,New Orleans,LA,734
+2020/1/1,Salt Lake City,UT,750
+2020/1/1,Bakersfield,CA,785
+2020/1/1,Urban Honolulu,HI,799
+2020/1/1,Wenatchee,WA,812
+2020/1/1,San Luis Obispo,CA,946
+2020/1/1,Philadelphia,PA,953
+2020/1/1,Charleston,SC,989
+2020/1/1,Reno,NV,1000
+2020/1/1,Boise City,ID,1069
+2020/1/1,Tucson,AZ,1203
+2020/1/1,Portland,ME,1284
+2020/1/1,Jacksonville,FL,1452
+2020/1/1,Bend,OR,1635
+2020/1/1,North Port,FL,1776
+2020/1/1,San Antonio,TX,1856
+2020/1/1,Portland,OR,1858
+2020/1/1,San Diego,CA,2463
+2020/1/1,Orlando,FL,2505
+2020/1/1,Raleigh,NC,2563
+2020/1/1,Cape Coral,FL,2761
+2020/1/1,Miami,FL,2883
+2020/1/1,Charlotte,NC,3062
+2020/1/1,Nashville,TN,3477
+2020/1/1,Tampa,FL,4089
+2020/1/1,Dallas,TX,4509
+2020/1/1,Austin,TX,5013
+2020/1/1,Sacramento,CA,5813
+2020/1/1,Atlanta,GA,6181
+2020/1/1,Las Vegas,NV,6821
+2020/1/1,Phoenix,AZ,8847
+2020/4/1,New York,NY,-33963
+2020/4/1,San Jose,CA,-31788
+2020/4/1,Los Angeles,CA,-17041
+2020/4/1,Washington,DC,-10550
+2020/4/1,Chicago,IL,-6697
+2020/4/1,Seattle,WA,-6007
+2020/4/1,Denver,CO,-4943
+2020/4/1,Boston,MA,-2864
+2020/4/1,Milwaukee,WI,-1553
+2020/4/1,Rockford,IL,-911
+2020/4/1,Detroit,MI,-905
+2020/4/1,Bellingham,WA,-807
+2020/4/1,Champaign,IL,-734
+2020/4/1,Indianapolis,IN,-734
+2020/4/1,South Bend,IN,-724
+2020/4/1,Hartford,CT,-697
+2020/4/1,Eugene,OR,-684
+2020/4/1,Chico,CA,-467
+2020/4/1,Richmond,VA,-406
+2020/4/1,Fayetteville,NC,-395
+2020/4/1,Visalia,CA,-309
+2020/4/1,McAllen,TX,-288
+2020/4/1,Lansing,MI,-262
+2020/4/1,Omaha,NE,-238
+2020/4/1,Colorado Springs,CO,-237
+2020/4/1,Des Moines,IA,-133
+2020/4/1,Dayton,OH,-113
+2020/4/1,Cincinnati,OH,-75
+2020/4/1,Youngstown,OH,-75
+2020/4/1,Lancaster,PA,-68
+2020/4/1,Lexington,KY,-60
+2020/4/1,Santa Maria,CA,-54
+2020/4/1,Killeen,TX,-43
+2020/4/1,Baton Rouge,LA,-20
+2020/4/1,Burlington,VT,-6
+2020/4/1,El Paso,TX,1
+2020/4/1,Appleton,WI,4
+2020/4/1,Kalamazoo,MI,26
+2020/4/1,Clarksville,TN,32
+2020/4/1,Syracuse,NY,61
+2020/4/1,Chattanooga,TN,62
+2020/4/1,Tulsa,OK,62
+2020/4/1,Rochester,NY,69
+2020/4/1,Huntsville,AL,73
+2020/4/1,Little Rock,AR,73
+2020/4/1,Corpus Christi,TX,111
+2020/4/1,Columbus,OH,120
+2020/4/1,Albany,NY,128
+2020/4/1,Birmingham,AL,133
+2020/4/1,Pittsburgh,PA,161
+2020/4/1,Harrisburg,PA,189
+2020/4/1,Louisville,KY,239
+2020/4/1,Allentown,PA,243
+2020/4/1,Memphis,TN,256
+2020/4/1,Columbia,SC,262
+2020/4/1,Buffalo,NY,264
+2020/4/1,Oklahoma City,OK,273
+2020/4/1,Palm Bay,FL,275
+2020/4/1,Madison,WI,292
+2020/4/1,Houston,TX,293
+2020/4/1,Salinas,CA,341
+2020/4/1,Fresno,CA,355
+2020/4/1,Knoxville,TN,383
+2020/4/1,St. Louis,MO,442
+2020/4/1,Grand Rapids,MI,474
+2020/4/1,Asheville,NC,476
+2020/4/1,Greensboro,NC,520
+2020/4/1,Cleveland,OH,538
+2020/4/1,Kansas City,MO,548
+2020/4/1,Greenville,SC,588
+2020/4/1,Minneapolis,MN,588
+2020/4/1,Fort Collins,CO,648
+2020/4/1,Albuquerque,NM,696
+2020/4/1,Kahului,HI,767
+2020/4/1,New Orleans,LA,768
+2020/4/1,San Diego,CA,784
+2020/4/1,Spokane,WA,792
+2020/4/1,Myrtle Beach,SC,855
+2020/4/1,Reno,NV,930
+2020/4/1,Virginia Beach,VA,932
+2020/4/1,Urban Honolulu,HI,941
+2020/4/1,Tucson,AZ,985
+2020/4/1,Salisbury,MD,1057
+2020/4/1,Philadelphia,PA,1119
+2020/4/1,Bakersfield,CA,1163
+2020/4/1,Salt Lake City,UT,1195
+2020/4/1,San Luis Obispo,CA,1319
+2020/4/1,Charleston,SC,1434
+2020/4/1,Wenatchee,WA,1574
+2020/4/1,Jacksonville,FL,1767
+2020/4/1,Boise City,ID,1806
+2020/4/1,Portland,OR,1820
+2020/4/1,Portland,ME,1861
+2020/4/1,North Port,FL,2159
+2020/4/1,Bend,OR,2160
+2020/4/1,San Antonio,TX,2447
+2020/4/1,Cape Coral,FL,2775
+2020/4/1,Orlando,FL,2776
+2020/4/1,Raleigh,NC,2980
+2020/4/1,Charlotte,NC,3380
+2020/4/1,Nashville,TN,3616
+2020/4/1,Miami,FL,4279
+2020/4/1,Tampa,FL,4955
+2020/4/1,Dallas,TX,5605
+2020/4/1,Atlanta,GA,6680
+2020/4/1,Austin,TX,6770
+2020/4/1,Las Vegas,NV,7136
+2020/4/1,Sacramento,CA,8935
+2020/4/1,Phoenix,AZ,9428
+2020/7/1,New York,NY,-48175
+2020/7/1,San Jose,CA,-43592
+2020/7/1,Los Angeles,CA,-23727
+2020/7/1,Washington,DC,-14180
+2020/7/1,Chicago,IL,-6257
+2020/7/1,Denver,CO,-5825
+2020/7/1,Seattle,WA,-4190
+2020/7/1,Milwaukee,WI,-2595
+2020/7/1,Indianapolis,IN,-1630
+2020/7/1,Rockford,IL,-1044
+2020/7/1,San Diego,CA,-928
+2020/7/1,Detroit,MI,-897
+2020/7/1,Champaign,IL,-863
+2020/7/1,Chico,CA,-718
+2020/7/1,Hartford,CT,-613
+2020/7/1,Houston,TX,-596
+2020/7/1,Richmond,VA,-588
+2020/7/1,Fayetteville,NC,-532
+2020/7/1,Eugene,OR,-498
+2020/7/1,Lansing,MI,-352
+2020/7/1,McAllen,TX,-351
+2020/7/1,South Bend,IN,-272
+2020/7/1,Des Moines,IA,-221
+2020/7/1,Youngstown,OH,-166
+2020/7/1,Visalia,CA,-164
+2020/7/1,Omaha,NE,-160
+2020/7/1,Bellingham,WA,-130
+2020/7/1,Lexington,KY,-90
+2020/7/1,Dayton,OH,-78
+2020/7/1,Baton Rouge,LA,-42
+2020/7/1,Killeen,TX,-23
+2020/7/1,Appleton,WI,-2
+2020/7/1,Lancaster,PA,0
+2020/7/1,Clarksville,TN,8
+2020/7/1,Cincinnati,OH,60
+2020/7/1,Kalamazoo,MI,72
+2020/7/1,Chattanooga,TN,100
+2020/7/1,Huntsville,AL,120
+2020/7/1,Little Rock,AR,131
+2020/7/1,Corpus Christi,TX,142
+2020/7/1,Syracuse,NY,165
+2020/7/1,Harrisburg,PA,174
+2020/7/1,El Paso,TX,180
+2020/7/1,Burlington,VT,185
+2020/7/1,Birmingham,AL,186
+2020/7/1,Savannah,GA,194
+2020/7/1,Tulsa,OK,209
+2020/7/1,Rochester,NY,217
+2020/7/1,Louisville,KY,249
+2020/7/1,Crestview,FL,262
+2020/7/1,Tucson,AZ,323
+2020/7/1,Fresno,CA,325
+2020/7/1,Columbia,SC,347
+2020/7/1,Albany,NY,350
+2020/7/1,Columbus,OH,365
+2020/7/1,Madison,WI,366
+2020/7/1,Memphis,TN,370
+2020/7/1,Santa Maria,CA,382
+2020/7/1,Colorado Springs,CO,392
+2020/7/1,Palm Bay,FL,418
+2020/7/1,Boston,MA,425
+2020/7/1,Oklahoma City,OK,450
+2020/7/1,Pittsburgh,PA,504
+2020/7/1,St. Louis,MO,530
+2020/7/1,Buffalo,NY,555
+2020/7/1,Knoxville,TN,590
+2020/7/1,Allentown,PA,592
+2020/7/1,Salinas,CA,688
+2020/7/1,Greensboro,NC,746
+2020/7/1,Cleveland,OH,826
+2020/7/1,New Orleans,LA,839
+2020/7/1,Grand Rapids,MI,862
+2020/7/1,Greenville,SC,899
+2020/7/1,Minneapolis,MN,929
+2020/7/1,Albuquerque,NM,962
+2020/7/1,Spokane,WA,968
+2020/7/1,Kahului,HI,994
+2020/7/1,Fort Collins,CO,995
+2020/7/1,Kansas City,MO,1052
+2020/7/1,Asheville,NC,1164
+2020/7/1,Reno,NV,1191
+2020/7/1,Myrtle Beach,SC,1244
+2020/7/1,Urban Honolulu,HI,1312
+2020/7/1,Bakersfield,CA,1480
+2020/7/1,Virginia Beach,VA,1494
+2020/7/1,Charleston,SC,1606
+2020/7/1,San Luis Obispo,CA,1782
+2020/7/1,Jacksonville,FL,2024
+2020/7/1,Wenatchee,WA,2220
+2020/7/1,Salt Lake City,UT,2412
+2020/7/1,Salisbury,MD,2539
+2020/7/1,Philadelphia,PA,2549
+2020/7/1,North Port,FL,2893
+2020/7/1,San Antonio,TX,2935
+2020/7/1,Boise City,ID,3180
+2020/7/1,Portland,OR,3191
+2020/7/1,Bend,OR,3364
+2020/7/1,Portland,ME,3449
+2020/7/1,Orlando,FL,3565
+2020/7/1,Cape Coral,FL,3583
+2020/7/1,Raleigh,NC,3740
+2020/7/1,Miami,FL,3889
+2020/7/1,Charlotte,NC,4071
+2020/7/1,Tampa,FL,4896
+2020/7/1,Nashville,TN,4990
+2020/7/1,Dallas,TX,6620
+2020/7/1,Atlanta,GA,7236
+2020/7/1,Phoenix,AZ,8339
+2020/7/1,Las Vegas,NV,8465
+2020/7/1,Austin,TX,8599
+2020/7/1,Sacramento,CA,11837
+2020/10/1,New York,NY,-43765
+2020/10/1,San Jose,CA,-41741
+2020/10/1,Los Angeles,CA,-24139
+2020/10/1,Washington,DC,-12417
+2020/10/1,Chicago,IL,-6163
+2020/10/1,Denver,CO,-5993
+2020/10/1,Seattle,WA,-3087
+2020/10/1,Milwaukee,WI,-2919
+2020/10/1,San Diego,CA,-2847
+2020/10/1,Indianapolis,IN,-1748
+2020/10/1,Boston,MA,-1113
+2020/10/1,Detroit,MI,-1052
+2020/10/1,Champaign,IL,-867
+2020/10/1,Rockford,IL,-844
+2020/10/1,South Bend,IN,-724
+2020/10/1,Chico,CA,-654
+2020/10/1,Bellingham,WA,-624
+2020/10/1,Spokane,WA,-603
+2020/10/1,Eugene,OR,-585
+2020/10/1,Richmond,VA,-507
+2020/10/1,Hartford,CT,-460
+2020/10/1,Fayetteville,NC,-427
+2020/10/1,McAllen,TX,-306
+2020/10/1,Lansing,MI,-283
+2020/10/1,Des Moines,IA,-194
+2020/10/1,Omaha,NE,-155
+2020/10/1,Lexington,KY,-145
+2020/10/1,Youngstown,OH,-134
+2020/10/1,Baton Rouge,LA,-123
+2020/10/1,Cincinnati,OH,-44
+2020/10/1,Appleton,WI,-40
+2020/10/1,Killeen,TX,-34
+2020/10/1,Corpus Christi,TX,-14
+2020/10/1,Lancaster,PA,-4
+2020/10/1,Clarksville,TN,-2
+2020/10/1,Santa Maria,CA,9
+2020/10/1,Dayton,OH,16
+2020/10/1,Syracuse,NY,79
+2020/10/1,Kalamazoo,MI,97
+2020/10/1,Chattanooga,TN,101
+2020/10/1,Burlington,VT,112
+2020/10/1,Little Rock,AR,125
+2020/10/1,Huntsville,AL,138
+2020/10/1,Tulsa,OK,184
+2020/10/1,Birmingham,AL,191
+2020/10/1,El Paso,TX,217
+2020/10/1,Rochester,NY,218
+2020/10/1,Savannah,GA,231
+2020/10/1,Crestview,FL,234
+2020/10/1,Harrisburg,PA,257
+2020/10/1,Madison,WI,266
+2020/10/1,Fresno,CA,275
+2020/10/1,Louisville,KY,277
+2020/10/1,Columbia,SC,302
+2020/10/1,Tucson,AZ,329
+2020/10/1,Palm Bay,FL,332
+2020/10/1,Oklahoma City,OK,361
+2020/10/1,Columbus,OH,420
+2020/10/1,Colorado Springs,CO,432
+2020/10/1,Allentown,PA,437
+2020/10/1,Albany,NY,439
+2020/10/1,Salinas,CA,447
+2020/10/1,Buffalo,NY,486
+2020/10/1,Pittsburgh,PA,510
+2020/10/1,Greensboro,NC,526
+2020/10/1,Houston,TX,587
+2020/10/1,Knoxville,TN,588
+2020/10/1,St. Louis,MO,617
+2020/10/1,Grand Rapids,MI,655
+2020/10/1,Fort Collins,CO,658
+2020/10/1,Asheville,NC,794
+2020/10/1,New Orleans,LA,797
+2020/10/1,Greenville,SC,804
+2020/10/1,Minneapolis,MN,928
+2020/10/1,Albuquerque,NM,964
+2020/10/1,Memphis,TN,979
+2020/10/1,Kahului,HI,1009
+2020/10/1,Kansas City,MO,1107
+2020/10/1,Cleveland,OH,1125
+2020/10/1,Reno,NV,1137
+2020/10/1,Myrtle Beach,SC,1150
+2020/10/1,San Luis Obispo,CA,1325
+2020/10/1,Bakersfield,CA,1342
+2020/10/1,Virginia Beach,VA,1418
+2020/10/1,Urban Honolulu,HI,1441
+2020/10/1,Charleston,SC,1481
+2020/10/1,Wenatchee,WA,1546
+2020/10/1,Salisbury,MD,1599
+2020/10/1,Jacksonville,FL,2019
+2020/10/1,Portland,OR,2259
+2020/10/1,Bend,OR,2421
+2020/10/1,Salt Lake City,UT,2446
+2020/10/1,Boise City,ID,2622
+2020/10/1,Philadelphia,PA,2701
+2020/10/1,San Antonio,TX,2738
+2020/10/1,Portland,ME,2784
+2020/10/1,Raleigh,NC,3005
+2020/10/1,North Port,FL,3016
+2020/10/1,Orlando,FL,3617
+2020/10/1,Charlotte,NC,3840
+2020/10/1,Miami,FL,4204
+2020/10/1,Cape Coral,FL,4241
+2020/10/1,Tampa,FL,4933
+2020/10/1,Nashville,TN,5514
+2020/10/1,Atlanta,GA,7753
+2020/10/1,Dallas,TX,8017
+2020/10/1,Sacramento,CA,9283
+2020/10/1,Phoenix,AZ,9414
+2020/10/1,Las Vegas,NV,9467
+2020/10/1,Austin,TX,10268
+2021/1/1,New York,NY,-48416
+2021/1/1,San Jose,CA,-40562
+2021/1/1,Los Angeles,CA,-28115
+2021/1/1,Washington,DC,-16570
+2021/1/1,Seattle,WA,-9770
+2021/1/1,Chicago,IL,-8713
+2021/1/1,Denver,CO,-8403
+2021/1/1,Boston,MA,-4629
+2021/1/1,Milwaukee,WI,-3155
+2021/1/1,Indianapolis,IN,-2363
+2021/1/1,Detroit,MI,-1976
+2021/1/1,Spokane,WA,-1244
+2021/1/1,South Bend,IN,-1241
+2021/1/1,Bellingham,WA,-1148
+2021/1/1,Rockford,IL,-983
+2021/1/1,Champaign,IL,-914
+2021/1/1,Eugene,OR,-757
+2021/1/1,Chico,CA,-727
+2021/1/1,Kennewick,WA,-561
+2021/1/1,Fayetteville,NC,-521
+2021/1/1,Richmond,VA,-511
+2021/1/1,Des Moines,IA,-360
+2021/1/1,McAllen,TX,-323
+2021/1/1,Lansing,MI,-302
+2021/1/1,Beaumont,TX,-297
+2021/1/1,Lexington,KY,-258
+2021/1/1,Hartford,CT,-214
+2021/1/1,Greensboro,NC,-207
+2021/1/1,Omaha,NE,-177
+2021/1/1,Youngstown,OH,-162
+2021/1/1,Cincinnati,OH,-138
+2021/1/1,Baton Rouge,LA,-123
+2021/1/1,Santa Maria,CA,-68
+2021/1/1,Appleton,WI,-64
+2021/1/1,Lancaster,PA,-21
+2021/1/1,Dayton,OH,-15
+2021/1/1,Anchorage,AK,-13
+2021/1/1,Corpus Christi,TX,17
+2021/1/1,Clarksville,TN,28
+2021/1/1,Harrisburg,PA,42
+2021/1/1,Syracuse,NY,89
+2021/1/1,Rochester,NY,91
+2021/1/1,Kalamazoo,MI,92
+2021/1/1,Burlington,VT,105
+2021/1/1,Killeen,TX,107
+2021/1/1,Louisville,KY,121
+2021/1/1,Green Bay,WI,139
+2021/1/1,Colorado Springs,CO,166
+2021/1/1,Little Rock,AR,205
+2021/1/1,Huntsville,AL,211
+2021/1/1,Chattanooga,TN,232
+2021/1/1,Birmingham,AL,237
+2021/1/1,Madison,WI,245
+2021/1/1,El Paso,TX,275
+2021/1/1,Salinas,CA,281
+2021/1/1,Tulsa,OK,294
+2021/1/1,Columbus,OH,303
+2021/1/1,Savannah,GA,341
+2021/1/1,Memphis,TN,342
+2021/1/1,Allentown,PA,348
+2021/1/1,Crestview,FL,376
+2021/1/1,Albany,NY,382
+2021/1/1,Fresno,CA,395
+2021/1/1,Buffalo,NY,401
+2021/1/1,Columbia,SC,454
+2021/1/1,Tucson,AZ,456
+2021/1/1,Oklahoma City,OK,506
+2021/1/1,Greenville,SC,537
+2021/1/1,Pittsburgh,PA,604
+2021/1/1,Fort Collins,CO,621
+2021/1/1,Minneapolis,MN,623
+2021/1/1,Palm Bay,FL,624
+2021/1/1,St. Louis,MO,631
+2021/1/1,Portland,OR,672
+2021/1/1,San Diego,CA,686
+2021/1/1,Grand Rapids,MI,734
+2021/1/1,Asheville,NC,1026
+2021/1/1,Albuquerque,NM,1049
+2021/1/1,Reno,NV,1067
+2021/1/1,New Orleans,LA,1075
+2021/1/1,Knoxville,TN,1104
+2021/1/1,Kansas City,MO,1172
+2021/1/1,Salt Lake City,UT,1206
+2021/1/1,Kahului,HI,1454
+2021/1/1,Myrtle Beach,SC,1472
+2021/1/1,Wenatchee,WA,1541
+2021/1/1,Cleveland,OH,1567
+2021/1/1,Salisbury,MD,1645
+2021/1/1,Philadelphia,PA,1675
+2021/1/1,Virginia Beach,VA,1675
+2021/1/1,Charleston,SC,1678
+2021/1/1,San Luis Obispo,CA,1689
+2021/1/1,Boise City,ID,1901
+2021/1/1,Bakersfield,CA,1975
+2021/1/1,Urban Honolulu,HI,2062
+2021/1/1,Houston,TX,2220
+2021/1/1,Bend,OR,2512
+2021/1/1,Portland,ME,2548
+2021/1/1,Jacksonville,FL,2924
+2021/1/1,Raleigh,NC,3564
+2021/1/1,San Antonio,TX,3980
+2021/1/1,Charlotte,NC,4159
+2021/1/1,Nashville,TN,5201
+2021/1/1,North Port,FL,5208
+2021/1/1,Orlando,FL,6350
+2021/1/1,Cape Coral,FL,6894
+2021/1/1,Tampa,FL,7621
+2021/1/1,Sacramento,CA,8748
+2021/1/1,Miami,FL,8846
+2021/1/1,Atlanta,GA,8855
+2021/1/1,Dallas,TX,9178
+2021/1/1,Las Vegas,NV,10939
+2021/1/1,Austin,TX,10953
+2021/1/1,Phoenix,AZ,12391
+2021/4/1,New York,NY,-48535
+2021/4/1,San Jose,CA,-45577
+2021/4/1,Los Angeles,CA,-33723
+2021/4/1,Washington,DC,-18143
+2021/4/1,Denver,CO,-9003
+2021/4/1,Chicago,IL,-6628
+2021/4/1,Seattle,WA,-6158
+2021/4/1,Boston,MA,-4991
+2021/4/1,Detroit,MI,-3265
+2021/4/1,Milwaukee,WI,-3222
+2021/4/1,Indianapolis,IN,-1998
+2021/4/1,Springfield,MA,-1416
+2021/4/1,South Bend,IN,-876
+2021/4/1,Rockford,IL,-839
+2021/4/1,Peoria,IL,-797
+2021/4/1,Champaign,IL,-777
+2021/4/1,Fayetteville,NC,-766
+2021/4/1,Kennewick,WA,-681
+2021/4/1,Bellingham,WA,-584
+2021/4/1,Lansing,MI,-568
+2021/4/1,Spokane,WA,-502
+2021/4/1,Chico,CA,-462
+2021/4/1,Albany,NY,-435
+2021/4/1,Beaumont,TX,-391
+2021/4/1,Eugene,OR,-386
+2021/4/1,Des Moines,IA,-375
+2021/4/1,Bloomington,IL,-363
+2021/4/1,Omaha,NE,-265
+2021/4/1,Cincinnati,OH,-231
+2021/4/1,Lexington,KY,-195
+2021/4/1,McAllen,TX,-154
+2021/4/1,Lincoln,NE,-118
+2021/4/1,Dayton,OH,-111
+2021/4/1,Youngstown,OH,-64
+2021/4/1,Baton Rouge,LA,-63
+2021/4/1,Rochester,MN,-31
+2021/4/1,Appleton,WI,-22
+2021/4/1,Anchorage,AK,1
+2021/4/1,Minneapolis,MN,9
+2021/4/1,Lancaster,PA,15
+2021/4/1,Richmond,VA,24
+2021/4/1,Syracuse,NY,26
+2021/4/1,Santa Maria,CA,34
+2021/4/1,Harrisburg,PA,46
+2021/4/1,Kalamazoo,MI,53
+2021/4/1,Louisville,KY,84
+2021/4/1,Madison,WI,123
+2021/4/1,Burlington,VT,133
+2021/4/1,Pensacola,FL,141
+2021/4/1,Clarksville,TN,147
+2021/4/1,Green Bay,WI,152
+2021/4/1,Corpus Christi,TX,182
+2021/4/1,Rochester,NY,214
+2021/4/1,Little Rock,AR,223
+2021/4/1,Birmingham,AL,229
+2021/4/1,Medford,OR,250
+2021/4/1,Huntsville,AL,252
+2021/4/1,Hartford,CT,292
+2021/4/1,Oklahoma City,OK,324
+2021/4/1,Buffalo,NY,353
+2021/4/1,Killeen,TX,373
+2021/4/1,Allentown,PA,400
+2021/4/1,El Paso,TX,401
+2021/4/1,Chattanooga,TN,404
+2021/4/1,Memphis,TN,472
+2021/4/1,Columbia,SC,479
+2021/4/1,Savannah,GA,481
+2021/4/1,Tulsa,OK,484
+2021/4/1,Columbus,OH,555
+2021/4/1,Crestview,FL,582
+2021/4/1,Tucson,AZ,583
+2021/4/1,Salinas,CA,595
+2021/4/1,Colorado Springs,CO,617
+2021/4/1,Greensboro,NC,685
+2021/4/1,St. Louis,MO,725
+2021/4/1,Grand Rapids,MI,735
+2021/4/1,Fort Collins,CO,761
+2021/4/1,Pittsburgh,PA,820
+2021/4/1,Kansas City,MO,936
+2021/4/1,Palm Bay,FL,936
+2021/4/1,Fresno,CA,1026
+2021/4/1,Reno,NV,1125
+2021/4/1,Salt Lake City,UT,1146
+2021/4/1,Greenville,SC,1157
+2021/4/1,Asheville,NC,1163
+2021/4/1,New Orleans,LA,1234
+2021/4/1,Knoxville,TN,1292
+2021/4/1,Philadelphia,PA,1299
+2021/4/1,Portland,OR,1323
+2021/4/1,Albuquerque,NM,1372
+2021/4/1,Kahului,HI,1481
+2021/4/1,Houston,TX,1680
+2021/4/1,Myrtle Beach,SC,1692
+2021/4/1,Cleveland,OH,1765
+2021/4/1,Charleston,SC,1805
+2021/4/1,Boise City,ID,1901
+2021/4/1,Bakersfield,CA,1950
+2021/4/1,Wenatchee,WA,1993
+2021/4/1,San Luis Obispo,CA,2016
+2021/4/1,Urban Honolulu,HI,2153
+2021/4/1,Virginia Beach,VA,2155
+2021/4/1,Salisbury,MD,2304
+2021/4/1,Bend,OR,2756
+2021/4/1,Portland,ME,3142
+2021/4/1,San Diego,CA,3147
+2021/4/1,Jacksonville,FL,3264
+2021/4/1,Charlotte,NC,3807
+2021/4/1,Raleigh,NC,3808
+2021/4/1,San Antonio,TX,4368
+2021/4/1,Nashville,TN,5071
+2021/4/1,North Port,FL,5159
+2021/4/1,Orlando,FL,5532
+2021/4/1,Cape Coral,FL,6477
+2021/4/1,Dallas,TX,7493
+2021/4/1,Austin,TX,7731
+2021/4/1,Atlanta,GA,7773
+2021/4/1,Tampa,FL,7969
+2021/4/1,Miami,FL,9834
+2021/4/1,Sacramento,CA,9910
+2021/4/1,Las Vegas,NV,10920
+2021/4/1,Phoenix,AZ,11450
+2021/7/1,San Jose,CA,-61533
+2021/7/1,Los Angeles,CA,-37905
+2021/7/1,New York,NY,-30384
+2021/7/1,Washington,DC,-19706
+2021/7/1,Boston,MA,-10156
+2021/7/1,Chicago,IL,-5303
+2021/7/1,Denver,CO,-5241
+2021/7/1,Seattle,WA,-4455
+2021/7/1,Detroit,MI,-4212
+2021/7/1,Minneapolis,MN,-2418
+2021/7/1,Albany,NY,-2036
+2021/7/1,Fayetteville,NC,-1206
+2021/7/1,Springfield,MA,-937
+2021/7/1,Rockford,IL,-609
+2021/7/1,Lansing,MI,-595
+2021/7/1,Orlando,FL,-475
+2021/7/1,Lincoln,NE,-399
+2021/7/1,Peoria,IL,-343
+2021/7/1,Kennewick,WA,-281
+2021/7/1,Augusta,GA,-276
+2021/7/1,Hilton Head Island,SC,-233
+2021/7/1,Lexington,KY,-206
+2021/7/1,Louisville,KY,-179
+2021/7/1,Champaign,IL,-120
+2021/7/1,Toledo,OH,-110
+2021/7/1,Chico,CA,-85
+2021/7/1,Des Moines,IA,-59
+2021/7/1,South Bend,IN,-48
+2021/7/1,Rochester,MN,-13
+2021/7/1,Syracuse,NY,-11
+2021/7/1,Burlington,VT,15
+2021/7/1,Eau Claire,WI,23
+2021/7/1,Dayton,OH,30
+2021/7/1,Hickory,NC,47
+2021/7/1,Kansas City,MO,55
+2021/7/1,Youngstown,OH,76
+2021/7/1,Kalamazoo,MI,83
+2021/7/1,Lancaster,PA,87
+2021/7/1,Appleton,WI,88
+2021/7/1,Madison,WI,89
+2021/7/1,Omaha,NE,94
+2021/7/1,Buffalo,NY,115
+2021/7/1,Anchorage,AK,175
+2021/7/1,Philadelphia,PA,185
+2021/7/1,Green Bay,WI,196
+2021/7/1,Clarksville,TN,209
+2021/7/1,McAllen,TX,230
+2021/7/1,Baton Rouge,LA,238
+2021/7/1,Huntsville,AL,247
+2021/7/1,Columbia,SC,250
+2021/7/1,Medford,OR,277
+2021/7/1,Birmingham,AL,292
+2021/7/1,Cincinnati,OH,316
+2021/7/1,Little Rock,AR,336
+2021/7/1,Oklahoma City,OK,352
+2021/7/1,Pensacola,FL,368
+2021/7/1,Hartford,CT,439
+2021/7/1,Eugene,OR,455
+2021/7/1,Ocala,FL,459
+2021/7/1,Milwaukee,WI,460
+2021/7/1,Rochester,NY,479
+2021/7/1,St. Louis,MO,554
+2021/7/1,Crestview,FL,563
+2021/7/1,Memphis,TN,574
+2021/7/1,Salt Lake City,UT,582
+2021/7/1,Harrisburg,PA,587
+2021/7/1,Chattanooga,TN,599
+2021/7/1,Tulsa,OK,605
+2021/7/1,Corpus Christi,TX,626
+2021/7/1,El Paso,TX,645
+2021/7/1,Killeen,TX,672
+2021/7/1,Allentown,PA,674
+2021/7/1,Indianapolis,IN,735
+2021/7/1,Pittsburgh,PA,779
+2021/7/1,Portland,OR,801
+2021/7/1,Savannah,GA,825
+2021/7/1,Richmond,VA,840
+2021/7/1,Columbus,OH,939
+2021/7/1,Grand Rapids,MI,959
+2021/7/1,Reno,NV,1035
+2021/7/1,Fort Collins,CO,1090
+2021/7/1,Santa Maria,CA,1123
+2021/7/1,Greenville,SC,1134
+2021/7/1,Cleveland,OH,1207
+2021/7/1,Colorado Springs,CO,1248
+2021/7/1,Greensboro,NC,1248
+2021/7/1,Palm Bay,FL,1252
+2021/7/1,Tucson,AZ,1353
+2021/7/1,New Orleans,LA,1368
+2021/7/1,Albuquerque,NM,1512
+2021/7/1,Houston,TX,1527
+2021/7/1,Charleston,SC,1566
+2021/7/1,Fresno,CA,1584
+2021/7/1,Kahului,HI,1646
+2021/7/1,Knoxville,TN,1702
+2021/7/1,Asheville,NC,1755
+2021/7/1,Wenatchee,WA,1844
+2021/7/1,Bakersfield,CA,1899
+2021/7/1,Salinas,CA,2014
+2021/7/1,Myrtle Beach,SC,2221
+2021/7/1,Urban Honolulu,HI,2274
+2021/7/1,Raleigh,NC,2335
+2021/7/1,San Luis Obispo,CA,2356
+2021/7/1,Boise City,ID,2448
+2021/7/1,Bellingham,WA,2457
+2021/7/1,Charlotte,NC,2632
+2021/7/1,Virginia Beach,VA,2732
+2021/7/1,Jacksonville,FL,2924
+2021/7/1,Bend,OR,2963
+2021/7/1,Spokane,WA,3137
+2021/7/1,Nashville,TN,3348
+2021/7/1,Salisbury,MD,3896
+2021/7/1,San Diego,CA,4010
+2021/7/1,Austin,TX,4415
+2021/7/1,Portland,ME,4517
+2021/7/1,Dallas,TX,4664
+2021/7/1,Atlanta,GA,4769
+2021/7/1,North Port,FL,4907
+2021/7/1,San Antonio,TX,5235
+2021/7/1,Cape Coral,FL,5260
+2021/7/1,Tampa,FL,7324
+2021/7/1,Las Vegas,NV,7777
+2021/7/1,Sacramento,CA,9250
+2021/7/1,Phoenix,AZ,9959
+2021/7/1,Miami,FL,11872
+2021/10/1,San Jose,CA,-48904
+2021/10/1,Los Angeles,CA,-39586
+2021/10/1,New York,NY,-27769
+2021/10/1,Washington,DC,-18675
+2021/10/1,Seattle,WA,-16632
+2021/10/1,Boston,MA,-9980
+2021/10/1,Chicago,IL,-7033
+2021/10/1,Denver,CO,-3275
+2021/10/1,Minneapolis,MN,-2122
+2021/10/1,Portland,OR,-1668
+2021/10/1,Detroit,MI,-1340
+2021/10/1,Fayetteville,NC,-1138
+2021/10/1,Springfield,MA,-872
+2021/10/1,Albany,NY,-733
+2021/10/1,Rockford,IL,-534
+2021/10/1,Lansing,MI,-447
+2021/10/1,Peoria,IL,-320
+2021/10/1,Buffalo,NY,-314
+2021/10/1,Kennewick,WA,-273
+2021/10/1,Lexington,KY,-270
+2021/10/1,Charlottesville,VA,-210
+2021/10/1,Louisville,KY,-207
+2021/10/1,Champaign,IL,-144
+2021/10/1,Hartford,CT,-129
+2021/10/1,Augusta,GA,-97
+2021/10/1,Lincoln,NE,-82
+2021/10/1,South Bend,IN,-76
+2021/10/1,Dayton,OH,-50
+2021/10/1,Toledo,OH,-39
+2021/10/1,Kalamazoo,MI,-35
+2021/10/1,Rochester,MN,-18
+2021/10/1,Madison,WI,7
+2021/10/1,Des Moines,IA,19
+2021/10/1,Anchorage,AK,38
+2021/10/1,Syracuse,NY,43
+2021/10/1,Burlington,VT,44
+2021/10/1,Clarksville,TN,53
+2021/10/1,Hickory,NC,55
+2021/10/1,Youngstown,OH,57
+2021/10/1,Omaha,NE,70
+2021/10/1,Tallahassee,FL,86
+2021/10/1,Lancaster,PA,102
+2021/10/1,Appleton,WI,104
+2021/10/1,Cleveland,OH,108
+2021/10/1,Kansas City,MO,119
+2021/10/1,Gainesville,FL,126
+2021/10/1,Chico,CA,146
+2021/10/1,Green Bay,WI,151
+2021/10/1,Salt Lake City,UT,200
+2021/10/1,Eugene,OR,204
+2021/10/1,Baton Rouge,LA,205
+2021/10/1,McAllen,TX,217
+2021/10/1,Little Rock,AR,281
+2021/10/1,Medford,OR,295
+2021/10/1,Huntsville,AL,300
+2021/10/1,Philadelphia,PA,311
+2021/10/1,Birmingham,AL,328
+2021/10/1,Columbia,SC,340
+2021/10/1,Cincinnati,OH,351
+2021/10/1,Milwaukee,WI,401
+2021/10/1,Orlando,FL,437
+2021/10/1,Corpus Christi,TX,465
+2021/10/1,Columbus,OH,469
+2021/10/1,Pensacola,FL,484
+2021/10/1,Rochester,NY,493
+2021/10/1,Tulsa,OK,539
+2021/10/1,Ocala,FL,589
+2021/10/1,St. Louis,MO,593
+2021/10/1,El Paso,TX,597
+2021/10/1,Harrisburg,PA,621
+2021/10/1,Pittsburgh,PA,622
+2021/10/1,Oklahoma City,OK,625
+2021/10/1,Memphis,TN,641
+2021/10/1,Allentown,PA,656
+2021/10/1,Killeen,TX,700
+2021/10/1,Indianapolis,IN,706
+2021/10/1,Crestview,FL,707
+2021/10/1,Savannah,GA,774
+2021/10/1,Grand Rapids,MI,827
+2021/10/1,Chattanooga,TN,857
+2021/10/1,Richmond,VA,905
+2021/10/1,Santa Maria,CA,906
+2021/10/1,Fort Collins,CO,921
+2021/10/1,Reno,NV,997
+2021/10/1,Colorado Springs,CO,1112
+2021/10/1,Greensboro,NC,1245
+2021/10/1,Palm Bay,FL,1250
+2021/10/1,Greenville,SC,1257
+2021/10/1,New Orleans,LA,1261
+2021/10/1,Tucson,AZ,1417
+2021/10/1,Albuquerque,NM,1482
+2021/10/1,Charleston,SC,1496
+2021/10/1,Fresno,CA,1532
+2021/10/1,Asheville,NC,1704
+2021/10/1,Salinas,CA,1743
+2021/10/1,Bellingham,WA,1781
+2021/10/1,Urban Honolulu,HI,1809
+2021/10/1,Knoxville,TN,1860
+2021/10/1,San Luis Obispo,CA,1869
+2021/10/1,Wenatchee,WA,1894
+2021/10/1,Myrtle Beach,SC,1898
+2021/10/1,Bakersfield,CA,1970
+2021/10/1,Houston,TX,1977
+2021/10/1,Kahului,HI,1978
+2021/10/1,Raleigh,NC,2015
+2021/10/1,Charlotte,NC,2142
+2021/10/1,Virginia Beach,VA,2277
+2021/10/1,Bend,OR,2547
+2021/10/1,Boise City,ID,2607
+2021/10/1,San Diego,CA,2794
+2021/10/1,Spokane,WA,2865
+2021/10/1,Salisbury,MD,2929
+2021/10/1,Jacksonville,FL,3109
+2021/10/1,Portland,ME,3645
+2021/10/1,Nashville,TN,3968
+2021/10/1,Austin,TX,4210
+2021/10/1,Atlanta,GA,4921
+2021/10/1,San Antonio,TX,5334
+2021/10/1,North Port,FL,5362
+2021/10/1,Cape Coral,FL,5526
+2021/10/1,Dallas,TX,6363
+2021/10/1,Tampa,FL,7678
+2021/10/1,Sacramento,CA,7756
+2021/10/1,Las Vegas,NV,8031
+2021/10/1,Phoenix,AZ,11047
+2021/10/1,Miami,FL,11931
+2022/1/1,San Jose,CA,-52964
+2022/1/1,Los Angeles,CA,-37148
+2022/1/1,New York,NY,-32834
+2022/1/1,Washington,DC,-25409
+2022/1/1,Seattle,WA,-23867
+2022/1/1,Boston,MA,-14173
+2022/1/1,Chicago,IL,-8945
+2022/1/1,Denver,CO,-5155
+2022/1/1,Minneapolis,MN,-2967
+2022/1/1,Portland,OR,-2864
+2022/1/1,Cleveland,OH,-1488
+2022/1/1,Fayetteville,NC,-1233
+2022/1/1,Springfield,MA,-1182
+2022/1/1,Detroit,MI,-1161
+2022/1/1,Albany,NY,-1078
+2022/1/1,Buffalo,NY,-989
+2022/1/1,Salt Lake City,UT,-971
+2022/1/1,Lansing,MI,-662
+2022/1/1,Rockford,IL,-534
+2022/1/1,Hartford,CT,-383
+2022/1/1,South Bend,IN,-370
+2022/1/1,Kennewick,WA,-345
+2022/1/1,Columbus,GA,-323
+2022/1/1,Peoria,IL,-316
+2022/1/1,Lexington,KY,-313
+2022/1/1,Louisville,KY,-284
+2022/1/1,Hilton Head Island,SC,-253
+2022/1/1,Madison,WI,-244
+2022/1/1,Bloomington,IL,-208
+2022/1/1,Kalamazoo,MI,-201
+2022/1/1,Champaign,IL,-195
+2022/1/1,Scranton,PA,-150
+2022/1/1,Dayton,OH,-114
+2022/1/1,Burlington,VT,-103
+2022/1/1,Milwaukee,WI,-92
+2022/1/1,Homosassa Springs,FL,-72
+2022/1/1,Lincoln,NE,-58
+2022/1/1,Syracuse,NY,-55
+2022/1/1,Des Moines,IA,-49
+2022/1/1,Toledo,OH,-49
+2022/1/1,Charlottesville,VA,-36
+2022/1/1,Jackson,MS,-32
+2022/1/1,Kansas City,MO,-11
+2022/1/1,Rochester,MN,-9
+2022/1/1,Omaha,NE,-3
+2022/1/1,Clarksville,TN,-1
+2022/1/1,Saginaw,MI,6
+2022/1/1,Shreveport,LA,7
+2022/1/1,Anchorage,AK,25
+2022/1/1,Eau Claire,WI,43
+2022/1/1,Mobile,AL,46
+2022/1/1,Youngstown,OH,58
+2022/1/1,Gulfport,MS,67
+2022/1/1,Lancaster,PA,74
+2022/1/1,Augusta,GA,93
+2022/1/1,Green Bay,WI,98
+2022/1/1,Appleton,WI,109
+2022/1/1,Columbus,OH,133
+2022/1/1,Macon,GA,149
+2022/1/1,Hickory,NC,153
+2022/1/1,Tallahassee,FL,188
+2022/1/1,Eugene,OR,196
+2022/1/1,Gainesville,FL,205
+2022/1/1,Cincinnati,OH,226
+2022/1/1,McAllen,TX,227
+2022/1/1,Baton Rouge,LA,245
+2022/1/1,Fayetteville,AR,260
+2022/1/1,Huntsville,AL,298
+2022/1/1,Chico,CA,314
+2022/1/1,Rochester,NY,360
+2022/1/1,Little Rock,AR,362
+2022/1/1,Philadelphia,PA,392
+2022/1/1,Birmingham,AL,461
+2022/1/1,Allentown,PA,547
+2022/1/1,Medford,OR,547
+2022/1/1,Grand Rapids,MI,575
+2022/1/1,Pittsburgh,PA,584
+2022/1/1,Corpus Christi,TX,593
+2022/1/1,St. Louis,MO,613
+2022/1/1,Columbia,SC,669
+2022/1/1,Memphis,TN,692
+2022/1/1,Fort Collins,CO,709
+2022/1/1,Reno,NV,803
+2022/1/1,Indianapolis,IN,807
+2022/1/1,Killeen,TX,830
+2022/1/1,Chattanooga,TN,838
+2022/1/1,El Paso,TX,845
+2022/1/1,Pensacola,FL,871
+2022/1/1,Santa Maria,CA,900
+2022/1/1,Harrisburg,PA,902
+2022/1/1,Crestview,FL,919
+2022/1/1,Tulsa,OK,932
+2022/1/1,Prescott Valley,AZ,1023
+2022/1/1,Colorado Springs,CO,1060
+2022/1/1,Richmond,VA,1081
+2022/1/1,Ocala,FL,1083
+2022/1/1,Oklahoma City,OK,1113
+2022/1/1,Savannah,GA,1263
+2022/1/1,Greensboro,NC,1439
+2022/1/1,Bellingham,WA,1473
+2022/1/1,Wenatchee,WA,1524
+2022/1/1,Asheville,NC,1528
+2022/1/1,Greenville,SC,1610
+2022/1/1,New Orleans,LA,1681
+2022/1/1,Albuquerque,NM,1687
+2022/1/1,Fresno,CA,1774
+2022/1/1,Salinas,CA,1821
+2022/1/1,Tucson,AZ,1845
+2022/1/1,Palm Bay,FL,1854
+2022/1/1,Charleston,SC,1878
+2022/1/1,Raleigh,NC,1981
+2022/1/1,Knoxville,TN,2062
+2022/1/1,Boise City,ID,2084
+2022/1/1,San Luis Obispo,CA,2159
+2022/1/1,Kahului,HI,2216
+2022/1/1,Myrtle Beach,SC,2347
+2022/1/1,Charlotte,NC,2357
+2022/1/1,Spokane,WA,2385
+2022/1/1,Urban Honolulu,HI,2447
+2022/1/1,Bakersfield,CA,2583
+2022/1/1,Virginia Beach,VA,2665
+2022/1/1,Bend,OR,2717
+2022/1/1,Orlando,FL,2976
+2022/1/1,Austin,TX,3024
+2022/1/1,Nashville,TN,3150
+2022/1/1,Salisbury,MD,3151
+2022/1/1,Portland,ME,3316
+2022/1/1,San Diego,CA,3948
+2022/1/1,Jacksonville,FL,4174
+2022/1/1,Houston,TX,4674
+2022/1/1,Atlanta,GA,5310
+2022/1/1,Dallas,TX,6115
+2022/1/1,San Antonio,TX,6334
+2022/1/1,North Port,FL,7402
+2022/1/1,Cape Coral,FL,7930
+2022/1/1,Las Vegas,NV,9333
+2022/1/1,Sacramento,CA,9541
+2022/1/1,Tampa,FL,11147
+2022/1/1,Phoenix,AZ,14009
+2022/1/1,Miami,FL,16480
+2022/4/1,San Jose,CA,-48718
+2022/4/1,Los Angeles,CA,-40632
+2022/4/1,New York,NY,-35165
+2022/4/1,Washington,DC,-24492
+2022/4/1,Seattle,WA,-18594
+2022/4/1,Boston,MA,-12493
+2022/4/1,Detroit,MI,-7334
+2022/4/1,Denver,CO,-5635
+2022/4/1,Chicago,IL,-4769
+2022/4/1,Minneapolis,MN,-2795
+2022/4/1,Portland,OR,-2196
+2022/4/1,Springfield,MA,-1315
+2022/4/1,Salt Lake City,UT,-1175
+2022/4/1,Albany,NY,-1101
+2022/4/1,Fayetteville,NC,-969
+2022/4/1,Cleveland,OH,-924
+2022/4/1,Lafayette,IN,-913
+2022/4/1,Lansing,MI,-530
+2022/4/1,Louisville,KY,-465
+2022/4/1,Rockford,IL,-429
+2022/4/1,Columbus,GA,-355
+2022/4/1,Peoria,IL,-343
+2022/4/1,Kennewick,WA,-338
+2022/4/1,Springfield,IL,-318
+2022/4/1,Lexington,KY,-238
+2022/4/1,Hilton Head Island,SC,-235
+2022/4/1,Champaign,IL,-229
+2022/4/1,Bloomington,IL,-202
+2022/4/1,Visalia,CA,-167
+2022/4/1,Scranton,PA,-155
+2022/4/1,Lafayette,LA,-137
+2022/4/1,South Bend,IN,-133
+2022/4/1,Madison,WI,-129
+2022/4/1,Lincoln,NE,-113
+2022/4/1,Kalamazoo,MI,-66
+2022/4/1,Evansville,IN,-42
+2022/4/1,Milwaukee,WI,-31
+2022/4/1,Hartford,CT,-27
+2022/4/1,Wilmington,NC,-26
+2022/4/1,Burlington,VT,-21
+2022/4/1,Des Moines,IA,-18
+2022/4/1,Rochester,MN,-15
+2022/4/1,Anchorage,AK,-1
+2022/4/1,Omaha,NE,16
+2022/4/1,Shreveport,LA,18
+2022/4/1,Wichita,KS,21
+2022/4/1,Homosassa Springs,FL,25
+2022/4/1,Eau Claire,WI,28
+2022/4/1,Jackson,MS,28
+2022/4/1,Syracuse,NY,29
+2022/4/1,Saginaw,MI,49
+2022/4/1,Charlottesville,VA,55
+2022/4/1,Hickory,NC,65
+2022/4/1,Appleton,WI,74
+2022/4/1,Youngstown,OH,77
+2022/4/1,Dayton,OH,84
+2022/4/1,Clarksville,TN,88
+2022/4/1,Gulfport,MS,99
+2022/4/1,Augusta,GA,107
+2022/4/1,Mobile,AL,112
+2022/4/1,Toledo,OH,119
+2022/4/1,Kansas City,MO,134
+2022/4/1,Green Bay,WI,164
+2022/4/1,Lancaster,PA,165
+2022/4/1,Gainesville,FL,167
+2022/4/1,Buffalo,NY,182
+2022/4/1,Macon,GA,197
+2022/4/1,Tallahassee,FL,206
+2022/4/1,McAllen,TX,216
+2022/4/1,Eugene,OR,234
+2022/4/1,Bangor,ME,247
+2022/4/1,Fayetteville,AR,271
+2022/4/1,Little Rock,AR,289
+2022/4/1,Huntsville,AL,292
+2022/4/1,Baton Rouge,LA,419
+2022/4/1,Chico,CA,459
+2022/4/1,Birmingham,AL,509
+2022/4/1,Cincinnati,OH,538
+2022/4/1,Rochester,NY,543
+2022/4/1,Corpus Christi,TX,667
+2022/4/1,El Paso,TX,683
+2022/4/1,Medford,OR,688
+2022/4/1,Orlando,FL,688
+2022/4/1,Harrisburg,PA,749
+2022/4/1,Memphis,TN,749
+2022/4/1,Allentown,PA,757
+2022/4/1,Santa Maria,CA,762
+2022/4/1,Columbia,SC,797
+2022/4/1,Reno,NV,806
+2022/4/1,Killeen,TX,841
+2022/4/1,Oklahoma City,OK,850
+2022/4/1,Pittsburgh,PA,858
+2022/4/1,Pensacola,FL,872
+2022/4/1,Chattanooga,TN,880
+2022/4/1,Tulsa,OK,912
+2022/4/1,Indianapolis,IN,980
+2022/4/1,Grand Rapids,MI,983
+2022/4/1,St. Louis,MO,984
+2022/4/1,Fort Collins,CO,986
+2022/4/1,Tucson,AZ,1004
+2022/4/1,Ocala,FL,1089
+2022/4/1,Columbus,OH,1112
+2022/4/1,Colorado Springs,CO,1145
+2022/4/1,Crestview,FL,1152
+2022/4/1,Savannah,GA,1178
+2022/4/1,Richmond,VA,1245
+2022/4/1,Philadelphia,PA,1276
+2022/4/1,Prescott Valley,AZ,1314
+2022/4/1,Austin,TX,1543
+2022/4/1,Greenville,SC,1574
+2022/4/1,Asheville,NC,1579
+2022/4/1,New Orleans,LA,1599
+2022/4/1,Palm Bay,FL,1686
+2022/4/1,Salinas,CA,1731
+2022/4/1,Greensboro,NC,1775
+2022/4/1,Kahului,HI,1828
+2022/4/1,Bellingham,WA,1871
+2022/4/1,Wenatchee,WA,1924
+2022/4/1,Boise City,ID,1951
+2022/4/1,Albuquerque,NM,2070
+2022/4/1,Charleston,SC,2070
+2022/4/1,Fresno,CA,2092
+2022/4/1,Urban Honolulu,HI,2127
+2022/4/1,San Luis Obispo,CA,2232
+2022/4/1,Knoxville,TN,2252
+2022/4/1,Charlotte,NC,2347
+2022/4/1,Bakersfield,CA,2576
+2022/4/1,Spokane,WA,2637
+2022/4/1,Raleigh,NC,2711
+2022/4/1,Bend,OR,2722
+2022/4/1,Myrtle Beach,SC,2847
+2022/4/1,Nashville,TN,2854
+2022/4/1,Salisbury,MD,2862
+2022/4/1,Virginia Beach,VA,3155
+2022/4/1,Portland,ME,3585
+2022/4/1,Jacksonville,FL,3818
+2022/4/1,Atlanta,GA,4151
+2022/4/1,Houston,TX,4617
+2022/4/1,Dallas,TX,4964
+2022/4/1,San Antonio,TX,5335
+2022/4/1,North Port,FL,6626
+2022/4/1,San Diego,CA,6804
+2022/4/1,Cape Coral,FL,7015
+2022/4/1,Las Vegas,NV,8597
+2022/4/1,Sacramento,CA,9640
+2022/4/1,Phoenix,AZ,9730
+2022/4/1,Tampa,FL,9841
+2022/4/1,Miami,FL,12614
